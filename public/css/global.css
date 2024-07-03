@@ -2,4 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    --primary-color: #82261B;
+    --light-primary-color: #982B1F;
+}
+
+body{
+    font-family: sans-serif;
 }

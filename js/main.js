@@ -1,5 +1,4 @@
-console.log(carousel);
-carousel = document.querySelector(".carousel");
+let carousel = document.querySelector(".carousel");
 let carouselLeftBtn = document.querySelector(".carouselContainer > button.left");
 let carouselRightBtn = document.querySelector(".carouselContainer > button.right");
 let carouselIndex = 0;
@@ -13,7 +12,6 @@ function moveCarouselForward(){
     if(carouselIndex < 0){
         carouselIndex = carouselSize - 1;
     }
-    console.log(carouselIndex);
     carousel.style["transform"] = `translateX(-${carouselIndex * 100}%)`;
 }
 
