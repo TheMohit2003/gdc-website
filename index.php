@@ -12,7 +12,7 @@
 </head>
 <body>
 
-    <?php include("./includes/_navbar/_navbar.php"); ?>
+    <?php include("./includes/_navbar.php"); ?>
 
     <div class="carouselContainer">
         <div class="carousel">
