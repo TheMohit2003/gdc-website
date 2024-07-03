@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Government Dental College & Hospital Sambhajinagar</title>
 
-    <script src="public/js/_navbar.js"></script>
-    <script src="main.js" defer></script>
+    <script src="public/js/_navbar/_navbar.js"></script>
+    <script src="js/main.js" defer></script>
     <link rel="stylesheet" href="public/css/global.css"></link>
-    <link rel="stylesheet" href="styles.css"></link>
+    <link rel="stylesheet" href="css/styles.css"></link>
 </head>
 <body>
 
@@ -84,8 +84,6 @@
             <img class="" src="assets/right-arrow.png"></img>
         </button>
     </div>
-
-    <?php include("./includes/_htmlFooterBoilerplate.php") ?>
 
 </body>
 </html>
