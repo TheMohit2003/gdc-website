@@ -1,0 +1,109 @@
+.contentContainer {
+    margin: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.contentContainer > div > h1{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--primary-color);
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.contentContainer > div > p{
+    text-align: justify;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.facultyGallery{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    padding: 1.5rem;
+}
+
+.facultyCard{
+    overflow: hidden;
+    width: 250px;
+    box-shadow: 1px 1px 2px grey;
+    display: flex;
+    border-radius: 1rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.facultyCard > img{
+    object-fit: cover;
+    object-position: center;
+    height: 300px;
+    width: 100%;
+}
+
+.facultyCard > a{
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 1rem 1rem 4px 1rem;
+    color: var(--primary-color);
+}
+
+.facultyCard > a:hover{
+    text-decoration: underline;
+}
+
+.facultyCard > p{
+    height: 4rem;
+    font-size: 0.875rem;
+    padding: 0 1rem;
+    padding-bottom: 1rem;
+    width: 250px;
+}
+
+.visionCard, .missionCard{
+    margin: 2rem 0;
+    padding: 0 1rem;
+    box-shadow: 1px 1px 2px grey;
+    border-radius: 1rem;
+    border: 2px solid var(--primary-color);
+}
+
+.visionCard .title, .missionCard .title{
+    margin-top: 1rem;
+}
+
+.readMoreBtn{
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    display: block;
+    text-align: center;
+    border-top-right-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    width: fit-content;
+    margin: auto;
+}
+
+@media only screen and (min-width: 768px) {
+    .contentContainer {
+        max-width: 70%;
+        margin: 2rem auto;
+    }
+
+    .contentContainer > div > h1{
+        font-size: 2rem;
+    }
+
+    .contentContainer > div > p{
+        font-size: 1.125rem;
+    }
+}

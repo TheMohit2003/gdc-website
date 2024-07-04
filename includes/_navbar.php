@@ -9,7 +9,7 @@
     </div>
 
     <div class="bannerContainer">
-        <img src="public/assets/gdclogo1.png" class="logo" alt="" height="150" width="150" />
+        <img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="" height="150" width="150" />
         <div class="bannerTextContainer">
             <h1>
                 GOVERNMENT DENTAL COLLEGE &amp; HOSPITAL,
@@ -26,25 +26,25 @@
         </div>
         <div class="bannerBatchContainer">
             <img
-                src="public/assets/NAAC.png"
+                src="<?php echo $ROOTURL ?>public/assets/NAAC.png"
                 class="bannerBatch"
                 height=60
                 width=60
                 alt="" />
             <img
-                src="public/assets/ACCRED2.png"
+                src="<?php echo $ROOTURL ?>public/assets/ACCRED2.png"
                 class="bannerBatch"
                 height=60
                 width=60
                 alt="" />
             <img
-                src="public/assets/NAAC.png"
+                src="<?php echo $ROOTURL ?>public/assets/NAAC.png"
                 class="bannerBatch"
                 height=60
                 width=60
                 alt="" />
             <img
-                src="public/assets/ACCRED3.png"
+                src="<?php echo $ROOTURL ?>public/assets/ACCRED3.png"
                 class="bannerBatch"
                 height=60
                 width=60
@@ -68,88 +68,88 @@
             </svg>
         </button>
         <div class="navItemContainer">
-            <a href="./"> HOME </a>
+            <a href="<?php echo $ROOTURL ?>"> HOME </a>
             <div class="dropdownContainer">
                 <div>
                     ABOUT US
-                    <img src="public/assets/up.svg" alt="" height="10" width="10" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="" height="10" width="10" />
                 </div>
                 <div class="subNavItemContainer">
-                    <a href="./about-us/about-college"> ABOUT COLLEGE </a>
-                    <a href="./about-us/infrastructure"> INFRASTRUCTURE </a>
-                    <a href="./about-us/college-certification"> COLLEGE CERTIFICATION </a>
-                    <a href="./about-us/courses"> COURSES </a>
+                    <a href="<?php echo $ROOTURL ?>about-us/about-college"> ABOUT COLLEGE </a>
+                    <a href="<?php echo $ROOTURL ?>about-us/infrastructure"> INFRASTRUCTURE </a>
+                    <a href="<?php echo $ROOTURL ?>about-us/college-certification"> COLLEGE CERTIFICATION </a>
+                    <a href="<?php echo $ROOTURL ?>about-us/courses"> COURSES </a>
                 </div>
             </div>
             <div class="dropdownContainer">
                 <div>
                     DEPARTMENTS
-                    <img src="public/assets/up.svg" alt="" height="10" width="10" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="" height="10" width="10" />
                 </div>
                 <div class="subNavItemContainer">
-                    <a href="./departments/department-of-oral-medicine-and-radiology"> DEPARTMENT OF ORAL MEDICINE & RADIOLOGY </a>
-                    <a href="./departments/department-of-oral-surgery"> DEPARTMENT OF ORAL SURGERY </a>
-                    <a href="./departments/department-of-periodontics"> DEPARTMENT OF PERIODONTICS </a>
-                    <a href="./departments/department-of-public-health-dentistry"> DEPARTMENT OF PUBLIC HEALTH DENTISTRY </a>
-                    <a href="./departments/department-of-pedodontics"> DEPARTMENT OF PEDODONTICS </a>
-                    <a href="./departments/department-of-conservative-dentistry"> DEPARTMENT OF CONSERVATIVE DENTISTRY </a>
-                    <a href="./departments/department-of-orthodontics"> DEPARTMENT OF ORTHODONTICS </a>
-                    <a href="./departments/department-of-prosthodontics"> DEPARTMENT OF PROSTHODONTICS </a>
-                    <a href="./departments/department-of-oral-pathology"> DEPARTMENT OF ORAL PATHOLOGY </a>
-                    <a href="./departments/administrative-office"> ADMINISTRATIVE OFFICE </a>
+                    <a href="<?php echo $ROOTURL ?>departments/oral-medicine-and-radiology"> DEPARTMENT OF ORAL MEDICINE & RADIOLOGY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/oral-surgery"> DEPARTMENT OF ORAL SURGERY </a>
+                    <a href="<?php echo $ROOTURL ?>periodontics"> DEPARTMENT OF PERIODONTICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/public-health-dentistry"> DEPARTMENT OF PUBLIC HEALTH DENTISTRY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/pedodontics"> DEPARTMENT OF PEDODONTICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/conservative-dentistry"> DEPARTMENT OF CONSERVATIVE DENTISTRY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/orthodontics"> DEPARTMENT OF ORTHODONTICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/prosthodontics"> DEPARTMENT OF PROSTHODONTICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/oral-pathology"> DEPARTMENT OF ORAL PATHOLOGY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/administrative-office"> ADMINISTRATIVE OFFICE </a>
                 </div>
             </div>
             <div class="dropdownContainer">
                 <div>
                     STUDENT PORTAL
-                    <img src="public/assets/up.svg" alt="" height="10" width="10" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="" height="10" width="10" />
                 </div>
                 <div class="subNavItemContainer">
-                    <a href="./student-portal/anti-ragging"> ANTI RAGGING </a>
-                    <a href="./student-portal/mentorship-programme"> MENTORSHIP PROGRAMME </a>
-                    <a href="./student-portal/buddy-system"> BUDDY SYSTEM </a>
-                    <a href="./student-portal/student-council"> STUDENT COUNCIL </a>
-                    <a href="./student-portal/parent-teacher-association"> PARENT-TEACHER ASSOCIATION </a>
-                    <a href="./student-portal/student-info"> STUDENT INFO </a>
-                    <a href="./student-portal/students-achievements"> STUDENTS'S ACHIEVEMENTS </a>
-                    <a href="./student-portal/academic"> ACADEMIC </a>
-                    <a href="./student-portal/educational-resources"> EDUCATIONAL RESOURCES </a>
-                    <a href="./student-portal/carrier-guidance-cell"> CARRIER GUIDANCE CELL </a>
-                    <a href="./student-portal/feedback-and-validation"> FEEDBACK AND VALIDATION </a>
-                    <a href="./student-portal/international-students-cell"> INTERNATIONAL STUDENTS CELL </a>
-                    <a href="./student-portal/equal-opportinity-cell"> EQUAL OPPORTINITY CELL </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/anti-ragging"> ANTI RAGGING </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/mentorship-programme"> MENTORSHIP PROGRAMME </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/buddy-system"> BUDDY SYSTEM </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/student-council"> STUDENT COUNCIL </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/parent-teacher-association"> PARENT-TEACHER ASSOCIATION </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/student-info"> STUDENT INFO </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/students-achievements"> STUDENTS'S ACHIEVEMENTS </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/academic"> ACADEMIC </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/educational-resources"> EDUCATIONAL RESOURCES </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/carrier-guidance-cell"> CARRIER GUIDANCE CELL </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/feedback-and-validation"> FEEDBACK AND VALIDATION </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/international-students-cell"> INTERNATIONAL STUDENTS CELL </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/equal-opportinity-cell"> EQUAL OPPORTINITY CELL </a>
                 </div>
             </div>
-            <a href="./recruitment-cell">
+            <a href="<?php echo $ROOTURL ?>recruitment-cell">
                 RECRUITMENT CELL
             </a>
-            <a href="./procurement-cell">
+            <a href="<?php echo $ROOTURL ?>procurement-cell">
                 PROCUREMENT CELL
             </a>
-            <a href="./muhs-mandate">
+            <a href="<?php echo $ROOTURL ?>muhs-mandate">
                 MUHS MANDATE
             </a>
-            <a href="./naac">
+            <a href="<?php echo $ROOTURL ?>naac">
                 NAAC
             </a>
             <div class="dropdownContainer">
                 <div>
                     RESEARCH
-                    <img src="public/assets/up.svg" alt="" height="10" width="10" />
+                    <img src="<?php echo $ROOTURL ?>public/assets/up.svg" alt="" height="10" width="10" />
                 </div>
                 <div class="subNavItemContainer">
-                    <a href="./research/research-directors-message"> RESEARCH DIRECTOR'S MESSAGE </a>
-                    <a href="./research/pradan"> PRADAN </a>
-                    <a href="./research/ethical-committee"> ETHICAL COMMITTEE </a>
-                    <a href="./research/research-awards"> RESEARCH AWARDS </a>
-                    <a href="./research/mous-collaboration"> MOU'S & COLLABORATION </a>
-                    <a href="./research/research-projects"> RESEARCH PROJECTS </a>
-                    <a href="./research/research-fundings"> RESEARCH FUNDINGS </a>
-                    <a href="./research/research-publications"> RESEARCH PUBLICATIONS </a>
-                    <a href="./research/patents"> PATENTS </a>
-                    <a href="./research/copyrights"> COPYRIGHTS </a>
-                    <a href="./research/innovations"> INNOVATIONS </a>
-                    <a href="./research/interdesciplinary-activities"> INTERDESCIPLINARY ACTIVITIES </a>
+                    <a href="<?php echo $ROOTURL ?>research/research-directors-message"> RESEARCH DIRECTOR'S MESSAGE </a>
+                    <a href="<?php echo $ROOTURL ?>research/pradan"> PRADAN </a>
+                    <a href="<?php echo $ROOTURL ?>research/ethical-committee"> ETHICAL COMMITTEE </a>
+                    <a href="<?php echo $ROOTURL ?>research/research-awards"> RESEARCH AWARDS </a>
+                    <a href="<?php echo $ROOTURL ?>research/mous-collaboration"> MOU'S & COLLABORATION </a>
+                    <a href="<?php echo $ROOTURL ?>research/research-projects"> RESEARCH PROJECTS </a>
+                    <a href="<?php echo $ROOTURL ?>research/research-fundings"> RESEARCH FUNDINGS </a>
+                    <a href="<?php echo $ROOTURL ?>research/research-publications"> RESEARCH PUBLICATIONS </a>
+                    <a href="<?php echo $ROOTURL ?>research/patents"> PATENTS </a>
+                    <a href="<?php echo $ROOTURL ?>research/copyrights"> COPYRIGHTS </a>
+                    <a href="<?php echo $ROOTURL ?>research/innovations"> INNOVATIONS </a>
+                    <a href="<?php echo $ROOTURL ?>research/interdesciplinary-activities"> INTERDESCIPLINARY ACTIVITIES </a>
                 </div>
             </div>
         </div>

@@ -1,0 +1,55 @@
+.contentContainer {
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.contentContainer > div > h1{
+    font-weight: bold;
+    color: var(--primary-color);
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.galleryCardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.galleryCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 50%;
+    padding: 1rem;
+}
+
+.galleryCard > img{
+    border-radius: 1rem;
+    max-width: 300px;
+    max-height: 200px;
+}
+
+.galleryCard > p{
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+@media only screen and (min-width: 768px) {
+    .contentContainer {
+        max-width: 70%;
+    }
+
+    .galleryCard > img{
+        max-width: 500px;
+        max-height: 300px;
+    }
+}
