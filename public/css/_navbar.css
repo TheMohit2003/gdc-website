@@ -16,47 +16,33 @@
 .bannerContainer {
     color: var(--primary-color);
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding: 1rem 0;
-    /* text-shadow: 1px 1px 4px grey; */
+    padding: 1rem 0.5rem;
+    gap: 1rem;
 }
 
 .logo {
-    height: 6rem;
-    width: 6rem;
+    height: 4rem;
+    width: 4rem;
 }
 
 .bannerTextContainer {
-    text-align: center;
-    order: 2;
     margin: 0.25rem;
 }
 
 .bannerTextContainer>h1 {
-    font-size: 1.25rem;
+    font-size: 0.625rem;
     font-weight: bolder;
 }
 
 .bannerTextContainer>h2 {
-    font-size: 1rem;
+    font-size: 0.5rem;
     font-weight: bolder;
 }
 
 .bannerTextContainer>.subText {
     margin-top: 0.25rem;
-}
-
-.bannerBatchContainer {
-    display: flex;
-    order: 1;
-}
-
-.bannerBatch {
-    height: 2.5rem;
-    width: 2.5rem;
-    margin-right: 0.5rem;
 }
 
 .navbar {
@@ -160,7 +146,7 @@
 
 @media only screen and (min-width: 768px) {
     .topbar {
-        padding: 0.5rem 1rem;
+        padding: 0.5rem 3rem;
         font-size: 1.25rem;
     }
 
@@ -169,7 +155,8 @@
     }
 
     .bannerContainer {
-        padding: 2rem 0;
+        padding: 3rem;
+        gap: 2rem;
     }
 
     .logo {
@@ -178,7 +165,6 @@
     }
 
     .bannerTextContainer {
-        order: 1;
         margin: 1rem;
     }
 
@@ -190,15 +176,6 @@
     .bannerTextContainer>h2 {
         font-size: 1.25rem;
         font-weight: bolder;
-    }
-
-    .bannerBatchContainer {
-        order: 2;
-    }
-
-    .bannerBatch {
-        height: 5rem;
-        width: 5rem;
     }
 
     .hamburger {
