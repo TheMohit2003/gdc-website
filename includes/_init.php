@@ -1,5 +1,5 @@
 <?php
 
-$ROOTURL = "http://localhost:3001/";
+$ROOTURL = "http://localhost/";
 
 ?>
