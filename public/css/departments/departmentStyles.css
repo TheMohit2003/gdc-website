@@ -29,6 +29,24 @@
     margin-bottom: 1rem;
 }
 
+.list_inside{
+    list-style-position: inside;
+}
+
+.list-heading{
+    margin: 0.5rem 0;
+}
+
+.list-heading {
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.list-heading > ol,ul{
+    color: black;
+    font-weight: normal;
+}
+
 .facultyGallery{
     display: flex;
     flex-wrap: wrap;
@@ -82,6 +100,10 @@
 
 .visionCard .title, .missionCard .title{
     margin-top: 1rem;
+}
+
+.visionCard > ul > li{
+    margin: 0.5rem 0;
 }
 
 .readMoreBtn{

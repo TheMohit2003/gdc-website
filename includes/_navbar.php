@@ -64,7 +64,7 @@
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>departments/oral-medicine-and-radiology"> DEPARTMENT OF ORAL MEDICINE & RADIOLOGY </a>
                     <a href="<?php echo $ROOTURL ?>departments/oral-surgery"> DEPARTMENT OF ORAL SURGERY </a>
-                    <a href="<?php echo $ROOTURL ?>periodontics"> DEPARTMENT OF PERIODONTICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/periodontics"> DEPARTMENT OF PERIODONTICS </a>
                     <a href="<?php echo $ROOTURL ?>departments/public-health-dentistry"> DEPARTMENT OF PUBLIC HEALTH DENTISTRY </a>
                     <a href="<?php echo $ROOTURL ?>departments/pedodontics"> DEPARTMENT OF PEDODONTICS </a>
                     <a href="<?php echo $ROOTURL ?>departments/conservative-dentistry"> DEPARTMENT OF CONSERVATIVE DENTISTRY </a>
