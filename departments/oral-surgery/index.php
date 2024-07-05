@@ -251,27 +251,20 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-surgery/";
             <h1>Gallery</h1>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/departmentBoard.png" alt="Department Image" />
-                    <p>Department Board</p>
+                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/img1.jpg" alt="Department Image" />
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/centralClinic.png" alt="Department Image" /> 
-                    <p>Central Clinic</p>
+                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/img2.jpg" alt="Department Image" /> 
                 </div>
                 <div class="galleryCard">
                     <img
-                        src="<?php echo $CUURENTDIRURL ?>gallery/assets/clinicBoard.png" alt="Department Image" />
-                    <p>Clinic Board</p>
+                        src="<?php echo $CUURENTDIRURL ?>gallery/assets/img5.jpg" alt="Department Image" />
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/clinic.png" alt="Department Image" />
-                    <p>Clinic</p>
+                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/img4.jpg" alt="Department Image" />
                 </div>
             </div>
-            <a class="readMoreBtn"
-                href="<?php echo $CUURENTDIRURL ?>gallery">
-                View More
-            </a>
+            
         </div>
     </div >
 

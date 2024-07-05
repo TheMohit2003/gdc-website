@@ -35,20 +35,36 @@ $CURRENTDIRURL = $ROOTURL . "departments/pedodontics/gallery/";
             <h1>Gallery</h1>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/dept-image1.jpg" alt="Department Image" />
-                    <p>Department Board</p>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/dept-image1.jpg" alt="Department Image" />
+                    
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/img2.jpg" alt="Department Image" /> 
-                    <p>Department Images</p>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img2.jpg" alt="Department Image" /> 
+                    
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/img8.jpg" alt="Department Image" /> 
-                    <p>Department Images</p>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img8.jpg" alt="Department Image" /> 
+                    
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/img4.png" alt="Department Image" /> 
-                    <p>Department Images</p>
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img4.png" alt="Department Image" /> 
+                    
+                </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img5.jpg" alt="Department Image" /> 
+                    
+                </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img6.jpg" alt="Department Image" /> 
+                    
+                </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img7.jpg" alt="Department Image" /> 
+                    
+                </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/img8.jpg" alt="Department Image" /> 
+                    
                 </div>
             </div>
         </div>
