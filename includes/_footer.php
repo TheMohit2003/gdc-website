@@ -1,0 +1,48 @@
+<div class="footerContainer">
+    <div class="footerMain">
+        <div>
+            <span>Quick Links</span>
+            <a href="https://dciindia.gov.in/" target="_blank">
+                Dental Council Of India
+            </a>
+            <a href="https://medical.maharashtra.gov.in/" target="_blank">
+                Medical Education & Drugs Department
+            </a>
+            <a href="https://merciedu.co.in/">
+                Medical Education & Research
+            </a>
+            <a href="https://www.msdcmumbai.org.in/MSDCNew/index.html#/Home">
+                Maharashtra State Dental Council
+            </a>
+            <a href="http://www.mpsc.gov.in/">
+                Maharashtra Public Service Commission
+            </a>
+            <a href="https://cetcell.mahacet.org/">
+                CET-CELL
+            </a>
+            <a href="https://www.muhs.ac.in/">
+                Maharashtra University Of Health & Science
+            </a>
+            <a href="https://main.icmr.nic.in/">
+                Indian Council Of Medical Research
+            </a>
+        </div>
+        <div>
+            <span>Contact Us</span>
+            <p>
+                Email: GDC_aurangabad@edu.in
+            </p>
+            <p>
+                Phone No.: +91 99990111
+            </p>
+            <p>
+                <a href="https://www.facebook.com/profile.php?id=100063937994949&mibextid=ZbWKwL" target="_blank">
+                    <img src="<?php echo $ROOTURL; ?>public/assets/facebookIcon.png" height="50"/>
+                </a>
+            </p>
+        </div>
+    </div>
+    <div class="secondaryFooter">
+        © Copyright GDC 2022. Designed and Developed by MIT.
+    </div>
+</div>

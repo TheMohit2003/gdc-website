@@ -24,32 +24,7 @@
                 Recognized by Dental Council of India, New Delhi
             </h2>
         </div>
-        <div class="bannerBatchContainer">
-            <img
-                src="<?php echo $ROOTURL ?>public/assets/NAAC.png"
-                class="bannerBatch"
-                height=60
-                width=60
-                alt="" />
-            <img
-                src="<?php echo $ROOTURL ?>public/assets/ACCRED2.png"
-                class="bannerBatch"
-                height=60
-                width=60
-                alt="" />
-            <img
-                src="<?php echo $ROOTURL ?>public/assets/NAAC.png"
-                class="bannerBatch"
-                height=60
-                width=60
-                alt="" />
-            <img
-                src="<?php echo $ROOTURL ?>public/assets/ACCRED3.png"
-                class="bannerBatch"
-                height=60
-                width=60
-                alt="" />
-        </div>
+        <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraLogo.png" class="logo" alt="" height="150" width="150" />
     </div>
 
     <div class="navbar">
