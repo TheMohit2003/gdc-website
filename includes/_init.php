@@ -1,5 +1,0 @@
-<?php
-
-$ROOTURL = "http://localhost/";
-
-?>

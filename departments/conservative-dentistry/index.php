@@ -168,25 +168,25 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
                 A variety of procedures carried out in this department which include :
             </p>
             <p>
-                &#10003; Endodontic therapy (popularly known as RCT or Root Canal Therapy)
+                - Endodontic therapy (popularly known as RCT or Root Canal Therapy)
             </p>
             <p>
-                &#10003; Treatment of dental trauma
+                - Treatment of dental trauma
             </p>
             <p>
-                &#10003; Endodontic surgeries
+                - Endodontic surgeries
             </p>
             <p>
-                &#10003; Treatment of carious, cracked, fractured, discolored teeth
+                - Treatment of carious, cracked, fractured, discolored teeth
             </p>
             <p>
-                &#10003; Aesthetic & cosmetic procedures like bleaching, composite resin restorations
+                - Aesthetic & cosmetic procedures like bleaching, composite resin restorations
             </p>
             <p>
-                &#10003; Smile designing
+                - Smile designing
             </p>
             <p>
-                &#10003; Tooth jewellery (diamond) etc.
+                - Tooth jewellery (diamond) etc.
             </p>
             <p>
                 The scope of this subject is augmented by the wide array of varied diseases presented and consequently the increasing need for professionals to address and efficaciously treat patients with the same. It trains the individual and makes them well-versed in the course and also how the patient is treated with dental surgery. It enables the students to get knowledge about relevant clinic literature, and also develop a scientific approach. helps the individual to enhance their skills and The subject of Conservative Dentistry and Endodontics is not limited to only BDS and MDS courses. Individuals can also pursue a Fellowship in Micro-dentistry after receiving their BDS degree. Those who have completed their MDS course can opt for further building on their knowledge through PhD by engaging with more specific and complex topics. These courses are affiliated and governed by the Government of Maharashtra and MUHS.
