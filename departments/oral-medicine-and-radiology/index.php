@@ -29,46 +29,21 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
     <div class="pageBanner">
         <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
         <h1>
-            DEPARTMENT OF PEDODONTICS
+            DEPARTMENT OF ORAL MEDICINE AND RADIOLOGY
         </h1>
     </div>
     <div class="contentContainer">
         <div>
             <h1>Introduction</h1>
             <p>
-                The Department of Pediatric and Preventive Dentistry, Chhtrapaji
-              Sambhajinagar was established in 1985. The department aims at the
-              diagnosis & treatment of dental caries and its sequel, teeth
-              malformations and discolorations, thereby restoring the teeth to
-              full function in an aesthetically pleasing manner. Pediatric
-              Dentistry is the branch of Dentistry which is concerned with
-              comprehensive preventive and therapeutic oral health care of
-              children from birth through adolescence. An upcoming field of
-              dentistry with immense potential, paediatric dentistry aims to
-              eliminate fear at an early age with the inculcation of positive
-              attitudes. The Department of Pediatric and Preventive Dentistry,
-              Chhtrapaji Sambhajinagar caters to maintain a perfect blend of
-              both the clinical and academic arenas of the field. Scope ranges
-              from prenatal counseling of parents to all the dental treatments
-              upto 13 years of age. Dental Care of the medically and mentally
-              compromised patients is also taken care of. Undergraduate students
-              are given discussions on a wide range of topics with special
-              attention placed on interactive case history discussions as well
-              as first hand clinical experience under specialist supervision.
-              They are also encouraged to participate in seminars and posters in
-              order to get introduced to the changing trends and to evoke a
-              fresh interest in the subject. As interns they are trained to deal
-              and expertly manage patients of various age groups with special
-              emphasis on their clinical application of behavior management
-              techniques. The Department is situated in left wing of the college
-              on the second floor. The department has one large clinical section
-              where both the basic treatment procedures as well as advanced
-              treatments are made available. There is a presence of spacious
-              waiting area. We have a separate unit to treat children with
-              Special Health Care to render proper isolation and comfort to the
-              children. The department also has a well isolated sterilization
-              area, a preclinical lab and play room.
+                Oral Medicine dept. focuses on the diagnosis & management of simple & complex diagnostic & medical disorders affecting the oral & paraoral structures of the maxillofacial region. It is also within the scope of the dept. to suspect, investigate & refer the patients with systemic disorder & plan dental treatment. The most important role of Oral Medicine Dept. is prevention, diagnosis & medical management of oral precancerous lesions and conditions & their adequate referral. Oral Radiology dept. deals with radiographic examination with the help of intraoral & extraoral X-rays  & radiovisiography . The specialized equipments for research & academic activities in the dept. are CBCT, Phosphor plate scanner, Digital OPG & extra oral radiographs.
+
             </p>
+            <P>
+                In addition the Dept. is having a special surgery  unit (SSU).
+                In the Dept. of Oral Medicine & Radiology a new dental checkup and treatment center has been set up named as special surgery unit. In this SSU oral and dental health checkup and treatment is done for VIP personalities, handicapped patients, senior citizens and referral patients. Dental treatment procedures like Silver filling, composite filling, crown & bridge, root canal treatment, partial and complete denture, scaling and polishing, extractions & implant surgery are carried out. This SSU is fully equipped with latest dental materials, equipments and instruments   
+
+            </P>
            
         </div>
 
@@ -131,95 +106,75 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
 
         <div class="visionCard">
             <h1 class="title">
-                 Mission & Vision
+                 Patient Services
             </h1>
             <p class="italic mt-4">
-                &#10003; To foster the development of dentist who will brining profound
-            integrity and character to every endeavor, while demonstrating the
-            highest quality clinical knowledge and expertise.
+                &#10003; History and clinical examination of the patients attending the OPD Investigations of the patients if warranted and medicinal treatment if required.
+
             </p>
             <p class="italic mt-4">
-                &#10003; The Students should achieve academic excellence, Provide the best
-            oral health care, and engage in research scholarship, and creative
-            endeavors to improve the health of the highly diverse populations in
-            India.
+                &#10003; Radiographic investigations includes IOPA, RVG, Conventional & Digital OPG, Cephalometric, other extraoral views, Cone Beam Computed Tomography & phosphor plate scanner.
+
             </p>
+            <P>
+               &#10003; Cancer Detection Centre: Clinical Diagnosis and Management Of Premalignant Lesions & conditions and their referral.
+
+            </P>
             
         </div>
         <div class="missionCard">
             <h1 class="title">
-                Goals of the Department
+                Academic Activities 
             </h1>
             <p class="italic mt-4">
-               The goal of our department is to provide basic and advance
-              treatment modalities for children suffering with dental issues.
-              The college aims to provide high quality education to the budding
-              dentist by means of improved understanding of the diagnosis and
-              treatment planning of various types of oral health issues in
-              pediatric patients along with imbibing the students with behavior
-              management skills.
-            </p>
-            
-        </div>
-        <div class="missionCard">
-            <h1 class="title">
-                Patients Service
-            </h1>
-            <p class="italic mt-4">
-               The department is well equipped with all the latest infrastructure
-            which helps in the course of diagnosis and treatment planning of a
-            particular patient. The department is kids friendly and kept in par
-            to the specifications given by the dental council of India. We also
-            focuses on patients who are dependent on care takers for their day
-            to day living and those with special health care needs or
-            handicapped children who are identified from the community, brought
-            to the department for necessary oral health care and medical
-            treatment procedures.
+               Third BDS, final year BDS students and interns are regularly posted in the department, gain knowledge, experience, expertise in oral diagnosis & treatment, radiographic techniques along with their interpretations. Interactive sessions with the teaching staff regular seminars, tutorials help to bring out the best in the students. Post graduate students learn to diagnose, treat the difficult unusual cases, sharpen their skills in seminars, journal clubs case presentations.
+               Radiographic examination and interpretation forms an essential component in their training. Exposure to advanced imaging like RVG, Phosphor plate scanning & CBCT is adequate.
+
             </p>
             
         </div>
 
+
         <div>
-            <h1>ACTIVITIES</h1>
+            <h1>Lab/Research</h1>
             
             <p>
-                &#10003; THEORY CLASSES :  The
-              undergraduate students begin with lectures in the III year of BDS
-              .Theory (65 lecture hours) - III yr (20 hrs) and IV yr (45hrs).
+                &#10003; CBCT in diagnostic imaging of TMJ. 
             </p>
             <p>
-                &#10003; CLINICAL TRAINING : 
-              Detailed case history and discussion, Oral prophylaxis,
-              Restorative procedures, Extractions, Topical fluoride applications
-              procedures are taught in their clinical postings.
+                &#10003; Prevalence of premalignant lesions & conditions in marathwada region.
             </p>
             <p>
-                &#10003; PRACTICAL (170 hrs) :
-              III yr (70 hrs) and IV yr (100hrs).
-              (Total- 235 hrs)
+                &#10003; Application of Cone Beam Computed Tomography Gray Scale Values in the Diagnosis of Cysts and Tumors of Orofacial region – A Cross-sectional study.
             </p>
             <p>
-                &#10003; SEMINAR PRESENTATION :
-              The students are required to present two seminars, one minor at
-              the end of the III year BDS and a major seminar in the final year
-              of BDS.
+                &#10003; Gender Determination By Using Byzygomatic Width and Intercondylar Distance – A CBCT Study.
             </p>
             <p>
-                &#10003; COMMUNITY PROGRAMMES :
-              Students are also encouraged to participate in the programmes such
-              as treatment camps. People are made aware through these camps
-              regarding their dental health.
+                &#10003; Radiomorphometric Assessment Of the Submandibular Gland Fossa And Its Correlation With Mandibular Canal In Patients Requiring Dental Implants – A CBCT Study.
             </p>
             <p>
-                &#10003; PROJECT WORK :
-              Students are required to submit a project in their final year
-              which is usually related to the development of a teaching aid or
-              the development of an aid for behavior management.
+                &#10003; Assessment of Reliability of Central Incisors and Canines in Bimaxillary Arches for Volumetric Age Assessment in Marathwada Population- A Cross Sectional Study.
+            </p>
+            <p>
+                &#10003; Radiomorphometric Assessment of Temporomandibular Joint Spaces, Mandibular Condyle and Glenoid Fossa Using CBCT- A Cross Sectional Study.
+            </p>
+            <p>
+                &#10003; Morphological Analysis of the Nasopalatine Canal and its Variation with Gender and Age: A CBCT Study.
+            </p>
+            <p>
+                &#10003; Evaluation  of Pattern of Mandibular  Fracture in Trauma Patients: A Retrospective CBCT Study.
+            </p>
+            <p>
+                &#10003; Assessment of Lateral Pterygoid Plate Length in Patients with Temporomandibular Joint Disorder (TMD): A CBCT Study.
+            </p>
+            <p>
+                &#10003; Evaluation of Volumetric and Dimensional Changes of Pharyngeal Airway Space in OSMF Patients - A Cross Sectional Study.
             </p>
             
         </div>
 
-        <div>
+        <!-- <div>
             <h1>Gallery</h1>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
@@ -232,7 +187,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
                 </div>
                 <div class="galleryCard">
                     <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/img8.jpg" alt="Department Image" /> 
-                    <p>Clinical Record Book</p>
+                    <p>Department Images</p>
                 </div>
                 <div class="galleryCard">
                     <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/img4.png" alt="Department Image" /> 
@@ -240,12 +195,12 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
                 </div>
                 
             </div>
-            <!-- <a class="readMoreBtn"
+            <a class="readMoreBtn"
                 href="<?php echo $CUURENTDIRURL ?>gallery">
                 View More
-            </a> -->
+            </a>
         </div>
-    </div >
+    </div > -->
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 
