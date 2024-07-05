@@ -52,6 +52,7 @@
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>about-us/about-college"> ABOUT COLLEGE </a>
                     <a href="<?php echo $ROOTURL ?>about-us/infrastructure"> INFRASTRUCTURE </a>
+                    
                     <a href="<?php echo $ROOTURL ?>about-us/college-certification"> COLLEGE CERTIFICATION </a>
                     <a href="<?php echo $ROOTURL ?>about-us/courses"> COURSES </a>
                 </div>
