@@ -95,7 +95,7 @@
     color: white;
     width: 100%;
     display: block;
-    padding: 1rem 1rem;
+    padding: 0.5rem 1rem;
     font-size: 0.875rem;
 }
 
@@ -114,13 +114,13 @@
     cursor: default;
     transition: all;
     transition-duration: 200ms;
-    font-size: 0.875rem;
 }
 
 .dropdownContainer div {
     display: flex;
-    padding: 1rem 1rem;
+    padding: 0.5rem 1rem;
     gap: 0.25rem;
+    font-size: 0.875rem;
 }
 
 .dropdownContainer img {
@@ -206,26 +206,24 @@
         display: none;
     }
 
-    .navItemContainer > a{
-        font-size: 1rem;
-        padding: 1rem 1.5rem;
-    }
-
     .navbar>.navItemContainer {
         align-self: center;
     }
 
-    .navbar>.navItemContainer>a {
+    .navItemContainer > a{
         width: fit-content;
+        padding: 1rem 1rem;
+        font-size: 1rem;
     }
 
     .dropdownContainer div{
-        width: fit-content;
         font-size: 1rem;
-        padding: 1rem 1.5rem;
+        width: fit-content;
+        padding: 1rem 1rem;
     }
 
     .subNavItemContainer > a{
         padding: 0.75rem 2rem;
+        width: 100%;
     }
 }

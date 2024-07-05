@@ -24,14 +24,32 @@ function handleHamburgerClick() {
 
 let dropdownNavItems = document.querySelectorAll(".dropdownContainer");
 for (let x of dropdownNavItems) {
+    let dropdownBtn = x.querySelector(":first-child")
+    dropdownBtn.addEventListener("mousedown", () => {
+        if(dropdown.style["display"] == "flex"){
+            dropdown.style["overflow"] = "hidden";
+            dropdown.style["display"] = "none";
+            dropdown.style["height"] = "0";
+        }
+        else{
+            dropdown.style["width"] = "100%";
+            dropdown.style["display"] = "flex";
+            dropdown.style["top"] = "100%";
+            dropdown.style["left"] = "0";
+            dropdown.style["height"] = "fit-content";
+            if(window.matchMedia("(min-width: 768px)").matches){
+                dropdown.style["position"] = "absolute";
+            }
+        }
+    })
     let dropdown = x.querySelector(".subNavItemContainer");
     x.addEventListener("mouseenter", () => {
-        dropdown.style["width"] = "100%";
-        dropdown.style["display"] = "flex";
-        dropdown.style["top"] = "100%";
-        dropdown.style["left"] = "0";
-        dropdown.style["height"] = "fit-content";
         if(window.matchMedia("(min-width: 768px)").matches){
+            dropdown.style["width"] = "100%";
+            dropdown.style["display"] = "flex";
+            dropdown.style["top"] = "100%";
+            dropdown.style["left"] = "0";
+            dropdown.style["height"] = "fit-content";
             dropdown.style["position"] = "absolute";
         }
     });
@@ -39,9 +57,6 @@ for (let x of dropdownNavItems) {
         dropdown.style["overflow"] = "hidden";
         dropdown.style["display"] = "none";
         dropdown.style["height"] = "0";
-    });
-    x.addEventListener("click", () => {
-
     });
 }
 
