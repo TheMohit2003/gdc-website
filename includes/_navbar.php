@@ -106,8 +106,7 @@
                 </div>
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>student-portal/anti-ragging"> ANTI RAGGING </a>
-                    <a href="<?php echo $ROOTURL ?>student-portal/mentorship-programme"> MENTORSHIP PROGRAMME </a>
-                    <a href="<?php echo $ROOTURL ?>student-portal/buddy-system"> BUDDY SYSTEM </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/mentor-mentee-and-buddy-system"> MENTOR MENTEE & BUDDY SYSTEM </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/student-council"> STUDENT COUNCIL </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/parent-teacher-association"> PARENT-TEACHER ASSOCIATION </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/student-info"> STUDENT INFO </a>
