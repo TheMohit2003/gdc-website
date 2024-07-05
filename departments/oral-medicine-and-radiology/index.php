@@ -200,7 +200,8 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
                 View More
             </a>
         </div>
-    </div > -->
+        -->
+    </div >
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 

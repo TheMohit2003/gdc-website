@@ -16,7 +16,7 @@ function handleHamburgerClick() {
         closedHamBurgerIcon.style["display"] = "block";
         openedHamBurgerIcon.style["display"] = "none";
         navItemContainer.style["display"] = "none";
-        if (window.matchMedia("(min-width: 768px)").matches) {
+        if (window.matchMedia("(min-width: 1025px)").matches) {
             navItemContainer.style["display"] = "flex";
         }
     }
@@ -25,11 +25,11 @@ function handleHamburgerClick() {
 let dropdownNavItems = document.querySelectorAll(".dropdownContainer");
 for (let x of dropdownNavItems) {
     let dropdownBtn = x.querySelector(":first-child")
-    dropdownBtn.addEventListener("mousedown", () => {
+    let dropdown = x.querySelector(".subNavItemContainer");
+    dropdown.style["display"] = "none";
+    dropdownBtn.addEventListener("touchstart", () => {
         if(dropdown.style["display"] == "flex"){
-            dropdown.style["overflow"] = "hidden";
             dropdown.style["display"] = "none";
-            dropdown.style["height"] = "0";
         }
         else{
             dropdown.style["width"] = "100%";
@@ -42,21 +42,20 @@ for (let x of dropdownNavItems) {
             }
         }
     })
-    let dropdown = x.querySelector(".subNavItemContainer");
     x.addEventListener("mouseenter", () => {
-        if(window.matchMedia("(min-width: 768px)").matches){
+        // if(window.matchMedia("(min-width: 768px)").matches){
             dropdown.style["width"] = "100%";
             dropdown.style["display"] = "flex";
             dropdown.style["top"] = "100%";
             dropdown.style["left"] = "0";
             dropdown.style["height"] = "fit-content";
             dropdown.style["position"] = "absolute";
-        }
+        // }
     });
     x.addEventListener("mouseleave", () => {
-        dropdown.style["overflow"] = "hidden";
-        dropdown.style["display"] = "none";
-        dropdown.style["height"] = "0";
+        // if(window.matchMedia("(min-width: 768px)").matches){
+            dropdown.style["display"] = "none";
+        // }
     });
 }
 
