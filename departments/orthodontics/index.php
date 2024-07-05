@@ -129,3 +129,9 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
         </div>
 
     </div>
+    
+    
+    <?php include($ROOT . "includes/_footer.php"); ?>
+
+</body>
+</html>
