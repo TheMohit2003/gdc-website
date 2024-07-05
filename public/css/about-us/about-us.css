@@ -1,0 +1,115 @@
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--secondary-color);
+    padding: 1rem;
+    
+}
+
+.about-us-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    text-align: justify;
+    width: 75%;
+    margin: 1rem 1rem;
+    padding:1rem;
+    box-shadow: 1px 1px 2px grey;
+    border-radius: 1rem;
+    border: 2px solid var(--primary-color);
+}
+
+.certificate-container{
+    font-size: large;
+    
+    color: var(--primary-color);
+    font-weight: 500;
+    box-shadow: 1px 1px 2px grey;
+    border-radius: 1rem;
+    border: 2px solid var(--primary-color);
+    padding:1rem;
+    margin: 1rem;
+
+
+}
+
+.unOrderedList{
+    padding: 0;
+    margin: 1rem;
+
+}
+
+.certificate-container a{
+    font-size: large;
+    
+    color: var(--primary-color);
+    font-weight: 500;
+    padding:1rem;
+    
+
+}
+
+.infra-container a{
+    font-size: large;
+    
+    color: var(--primary-color);
+    font-weight: 500;
+    box-shadow: 1px 1px 2px grey;
+    border-radius: 1rem;
+    border: 2px solid var(--primary-color);
+    padding:1rem;
+
+}
+
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.infra-container{
+    gap: 1rem;
+    display: flex;
+}
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+    .about-us-container {
+        width: 95%;
+        padding: 0.5rem;
+    }
+    
+}
+
+/* .dept-list{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+    font-size: 1.3rem;
+} */
+
+.departmentsList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    justify-content: center;
+    padding: 1.5rem;
+    font-size: large;
+}
+
+.dept-title{
+    font-size: 1.7rem;
+}
+.college-desc{
+    font-size: 1.2rem;
+    padding: 0 1rem;
+}
+.college-title{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 0 1rem;    
+}
