@@ -1,7 +1,7 @@
 <div class="header">
     <div class="topbar">
         <p>
-            Email: GDC_aurangabad@edu.in
+            Email: gdca83@yahoo.com
         </p>
         <p>
             Phone: 0240-2402383, 82, 81

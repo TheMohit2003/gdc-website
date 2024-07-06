@@ -79,18 +79,20 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             <h1 class="title">
                  Mission
             </h1>
-            <p class="italic mt-4">
-                &#10003; To provide highest quality of orthodontic treatment and patient care to all sections of the society, led by a team of committed professionals equipped with the finest skills and competency
-            </p>
-            <p class="italic mt-4">
-                &#10003; To inculcate contemporary orthodontic skills and enable students to achieve academic and clinical excellence
-            </p>
-            <p class="italic mt-4">
-                &#10003; Nurturing research to provide evidence-based diagnosis and treatment planning
-            </p>
-            <p class="italic mt-4">
-                &#10003; To emphasize evidence-based learning and encourage molecular level research to advance the speciapty of orthodontics
-            </p>
+            <ul>
+                <li class="italic mt-4">
+                    To provide highest quality of orthodontic treatment and patient care to all sections of the society, led by a team of committed professionals equipped with the finest skills and competency
+                </li>
+                <li class="italic mt-4">
+                    To inculcate contemporary orthodontic skills and enable students to achieve academic and clinical excellence
+                </li>
+                <li class="italic mt-4">
+                    Nurturing research to provide evidence-based diagnosis and treatment planning
+                </li>
+                <li class="italic mt-4">
+                    To emphasize evidence-based learning and encourage molecular level research to advance the speciapty of orthodontics
+                </li>
+            </ul>
         </div>
 
         <div>

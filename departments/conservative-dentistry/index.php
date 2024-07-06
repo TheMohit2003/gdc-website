@@ -110,53 +110,57 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
             <h1 class="title">
                 Vision
             </h1>
-            <p class="italic mt-4">
-                &#10003; The Department of Conservative Dentistry and Endodontics encompasses the specialities of operative dentistry, endodontics, and dental material sciences.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To give an output of excellent future clinicians and academicians with equally motivated treatment impartation for patients.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To be on the progressing front with respect to research in the subject, student training and quality of treatment rendered to the patient.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To be an outstanding dental and research institute of international repute, producing dental professionals with skill, knowledge, and values.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To be the leading centre for excellence in preserving and restoring oral health through advanced conservative and endodontic treatments.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To extend our influence and expertise beyond boundaries through collaborations, partnerships, and knowledge-sharing initiatives, making a significant contribution to the global advancement of conservative and endodontic practices.
-            </p>
+            <ul>            
+                <li class="italic mt-4">
+                    The Department of Conservative Dentistry and Endodontics encompasses the specialities of operative dentistry, endodontics, and dental material sciences.
+                </li>
+                <li class="italic mt-4">
+                    To give an output of excellent future clinicians and academicians with equally motivated treatment impartation for patients.
+                </li>
+                <li class="italic mt-4">
+                    To be on the progressing front with respect to research in the subject, student training and quality of treatment rendered to the patient.
+                </li>
+                <li class="italic mt-4">
+                    To be an outstanding dental and research institute of international repute, producing dental professionals with skill, knowledge, and values.
+                </li>
+                <li class="italic mt-4">
+                    To be the leading centre for excellence in preserving and restoring oral health through advanced conservative and endodontic treatments.
+                </li>
+                <li class="italic mt-4">
+                    To extend our influence and expertise beyond boundaries through collaborations, partnerships, and knowledge-sharing initiatives, making a significant contribution to the global advancement of conservative and endodontic practices.
+                </li>
+            </ul>
         </div>
         <div class="missionCard">
             <h1 class="title">
                 Mission
             </h1>
-            <p class="italic mt-4">
-                &#10003; To support the vision, mission, core values and goals of the institution through teaching, service, patient care and research.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To educate undergraduate, post-graduate and fellowship students, with the best available evidence, to achieve and maintain optimal patient oral health, comfort, function and aesthetics through diagnosis, prevention and tooth preserving and regenerative management of caries, non-carious diseases, and other disorders of the teeth.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To provide students with state-of-the-art equipment and technology for enhanced, superior, and inspired patient management and treatment.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To broaden public awareness of the importance of good oral hygiene practices, emphasising on the benefits of conservative practices that aid in the preservation of tooth structures in the arch, while attracting the patients with high-valued services and satisfying healthcare experiences.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To provide comprehensive and evidence-based conservative and endodontic treatments to patients, ensuring optimal oral health outcomes and patient satisfaction.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To educate and train students in the latest techniques, technologies, and best practices in conservative dentistry and endodontics, fostering professional development and proficiency.
-            </p>
-            <p class="italic mt-4">
-                &#10003; Emphasize minimally invasive techniques and the use of biocompatible materials to ensure optimal function and aesthetic outcomes while prioritizing patient comfort and satisfaction.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To offer structured educational programs, including lectures, hands-on workshops, and clinical rotations, to equip students with the knowledge, skills, and proficiency needed to excel in the subject.
-            </p>
+            <ul> 
+                <li class="italic mt-4">
+                    To support the vision, mission, core values and goals of the institution through teaching, service, patient care and research.
+                </li>
+                <li class="italic mt-4">
+                    To educate undergraduate, post-graduate and fellowship students, with the best available evidence, to achieve and maintain optimal patient oral health, comfort, function and aesthetics through diagnosis, prevention and tooth preserving and regenerative management of caries, non-carious diseases, and other disorders of the teeth.
+                </li>
+                <li class="italic mt-4">
+                    To provide students with state-of-the-art equipment and technology for enhanced, superior, and inspired patient management and treatment.
+                </li>
+                <li class="italic mt-4">
+                    To broaden public awareness of the importance of good oral hygiene practices, emphasising on the benefits of conservative practices that aid in the preservation of tooth structures in the arch, while attracting the patients with high-valued services and satisfying healthcare experiences.
+                </li>
+                <li class="italic mt-4">
+                    To provide comprehensive and evidence-based conservative and endodontic treatments to patients, ensuring optimal oral health outcomes and patient satisfaction.
+                </li>
+                <li class="italic mt-4">
+                    To educate and train students in the latest techniques, technologies, and best practices in conservative dentistry and endodontics, fostering professional development and proficiency.
+                </li>
+                <li class="italic mt-4">
+                    Emphasize minimally invasive techniques and the use of biocompatible materials to ensure optimal function and aesthetic outcomes while prioritizing patient comfort and satisfaction.
+                </li>
+                <li class="italic mt-4">
+                    To offer structured educational programs, including lectures, hands-on workshops, and clinical rotations, to equip students with the knowledge, skills, and proficiency needed to excel in the subject.
+                </li>
+            </ul>
         </div>
 
         <div>

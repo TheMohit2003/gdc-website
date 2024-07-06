@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CUURENTDIRURL = $ROOTURL . "about-us/about-college/";
+$CURRENTDIRURL = $ROOTURL . "about-us/infrastructure/";
 
 ?>
 
@@ -35,10 +35,10 @@ $CUURENTDIRURL = $ROOTURL . "about-us/about-college/";
         <div class="main">
             <div class="infra-container">
                 
-                <a href="/" >
+                <a href="<?php echo $CURRENTDIRURL ?>assets/GDC hostel.pdf" >
                     1. Hostel Information
                 </a>
-                <a href="/" >
+                <a href="<?php echo $CURRENTDIRURL ?>assets/Library Information.pdf" >
                     2.  Library Information
                 </a>
             </div> 

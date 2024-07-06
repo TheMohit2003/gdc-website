@@ -90,24 +90,25 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-pathology/";
             <h1 class="title">
                 Mission & Vision
             </h1>
-            <p class="italic mt-4">
-                &#10003; To bring up the professionals with highest cognitive, affective
-              and psychomotor skills of global standards.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To train graduate and postgraduate students competent to deliver
-              best possible treatment modalities for oral and dental diseases at
-              rural as well as global levels.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To inculcate ethical values in day-to-day practice.
-            </p>
-            <p class="italic mt-4">
-                &#10003; An institute which can provide a high-quality education in health
-              sciences at par with global standards in terms of knowledge and
-              skills which would be beneficial to the society.
-            </p>
-            
+            <ul>
+                <li class="italic mt-4">
+                    To bring up the professionals with highest cognitive, affective
+                and psychomotor skills of global standards.
+                </li>
+                <li class="italic mt-4">
+                    To train graduate and postgraduate students competent to deliver
+                best possible treatment modalities for oral and dental diseases at
+                rural as well as global levels.
+                </li>
+                <li class="italic mt-4">
+                    To inculcate ethical values in day-to-day practice.
+                </li>
+                <li class="italic mt-4">
+                    An institute which can provide a high-quality education in health
+                sciences at par with global standards in terms of knowledge and
+                skills which would be beneficial to the society.
+                </li>
+            </ul>
         </div>
         <div class="visionCard">
             <h1 class="title">
@@ -133,22 +134,23 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-pathology/";
           particularly oral premalignant and malignant lesions – counseling &
           referral to appropriate department for further management.
             </p>
-            <p>
-                &#10003; Hematology: Blood investigations (complete hemogram, Bleeding time,
-            clotting time)
-            </p>
-            <p>
-                &#10003; Histopathology: Biopsy, cytology, special stains,
-            immunohistochemistry
-            </p>
-            <p>
-                &#10003; Microbiology: Microbial stains
-            </p>
-            <p>
-                &#10003; Clinical: Thorough examination of the patient and counseling and
-            referral to appropriate department for further evaluation.
-            </p>
-            
+            <ul>
+                <li>
+                    Hematology: Blood investigations (complete hemogram, Bleeding time,
+                clotting time)
+                </li>
+                <li>
+                    Histopathology: Biopsy, cytology, special stains,
+                immunohistochemistry
+                </li>
+                <li>
+                    Microbiology: Microbial stains
+                </li>
+                <li>
+                    Clinical: Thorough examination of the patient and counseling and
+                referral to appropriate department for further evaluation.
+                </li>
+            </ul>
         </div>
 
 
