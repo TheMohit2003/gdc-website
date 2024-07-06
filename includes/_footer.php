@@ -21,7 +21,7 @@
                 CET-CELL
             </a>
             <a href="https://www.muhs.ac.in/">
-                Maharashtra University Of Health & Science
+                Maharashtra University Of Health Sciences
             </a>
             <a href="https://main.icmr.nic.in/">
                 Indian Council Of Medical Research
@@ -30,7 +30,7 @@
         <div>
             <span>Important</span>
             <a href="<?php echo $ROOTURL ?>public/assets/17-babi-december-2020.pdf" target="_blank">
-                17 Babi
+                १७ बाबी
             </a>
         </div>
         <div>
@@ -49,6 +49,6 @@
         </div>
     </div>
     <div class="secondaryFooter">
-        © Copyright GDC&H Sambhajinagar 2024. Designed and Developed by MIT Sambhajinagar.
+        © Copyright GDC&H Chhatrapati Sambhajinagar 2024. Designed and Developed by MIT Chhatrapati Sambhajinagar.
     </div>
 </div>

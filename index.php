@@ -33,18 +33,18 @@ $CURRENTDIRURL = $ROOTURL . "";
             <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel2.jpg" alt="" width="500" height="500"></img>
             </div>
-            <div class="imageContainer">
+            <!-- <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel3.jpg" alt="" width="500" height="500"></img>
-            </div>
+            </div> -->
             <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel4.jpg" alt="" width="500" height="500"></img>
             </div>
             <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel5.jpg" alt="" width="500" height="500"></img>
             </div>
-            <div class="imageContainer">
+            <!-- <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel6.jpg" alt="" width="500" height="500"></img>
-            </div>
+            </div> -->
             <div class="imageContainer">
                 <img class="" src="<?php echo $CURRENTDIRURL ?>assets/Carousel7.jpg" alt="" width="500" height="500"></img>
             </div>

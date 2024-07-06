@@ -1,8 +1,8 @@
 <div class="maintenanceContainer">
     <div>
-        <p>Something went wrong!</p>
+        <!-- <p>Something went wrong!</p> -->
         <p>
-            Can you try this again or maybe visit our 
+            Page under Maintenance ...
             <a title="Our Site" href="<?php echo $ROOTURL; ?>">
                 Home Page
             </a>

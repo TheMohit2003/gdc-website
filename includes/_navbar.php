@@ -15,10 +15,10 @@
                 GOVERNMENT DENTAL COLLEGE &amp; HOSPITAL
             </h1>
             <h1>
-                CHHATRAPATI SAMBAJINAGAR
+                CHHATRAPATI SAMBHAJINAGAR
             </h1>
             <h2 class="subText">
-                Affiliated to Maharashtra Institute of Health Sciences
+                Affiliated to Maharashtra University of Health Sciences
             </h2>
             <h2>
                 Recognized by Dental Council of India, New Delhi
@@ -68,7 +68,7 @@
                     <a href="<?php echo $ROOTURL ?>departments/oral-surgery"> DEPARTMENT OF ORAL SURGERY </a>
                     <a href="<?php echo $ROOTURL ?>departments/periodontics"> DEPARTMENT OF PERIODONTICS </a>
                     <a href="<?php echo $ROOTURL ?>departments/public-health-dentistry"> DEPARTMENT OF PUBLIC HEALTH DENTISTRY </a>
-                    <a href="<?php echo $ROOTURL ?>departments/pedodontics"> DEPARTMENT OF PEDODONTICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/pediatric-and-preventive-dentistry"> DEPARTMENT OF PEDIATRIC AND PREVENTIVE DENTISTRY </a>
                     <a href="<?php echo $ROOTURL ?>departments/conservative-dentistry"> DEPARTMENT OF CONSERVATIVE DENTISTRY </a>
                     <a href="<?php echo $ROOTURL ?>departments/orthodontics"> DEPARTMENT OF ORTHODONTICS </a>
                     <a href="<?php echo $ROOTURL ?>departments/prosthodontics"> DEPARTMENT OF PROSTHODONTICS </a>
