@@ -16,7 +16,7 @@ function handleHamburgerClick() {
         closedHamBurgerIcon.style["display"] = "block";
         openedHamBurgerIcon.style["display"] = "none";
         navItemContainer.style["display"] = "none";
-        if (window.matchMedia("(min-width: 1025px)").matches) {
+        if (window.matchMedia("(min-width: 768px)").matches) {
             navItemContainer.style["display"] = "flex";
         }
     }

@@ -8,10 +8,9 @@
     padding: 0.5rem;
 }
 
-a{
+.header a{
     text-decoration: none;
     color: white;
-
 }
 
 .topbar p {
@@ -30,7 +29,11 @@ a{
 
 .logo {
     height: 4rem;
-    width: 4rem;
+    width: auto;
+}
+
+.logo.extra{
+    display: none;
 }
 
 .bannerTextContainer {
@@ -88,6 +91,7 @@ a{
     display: block;
     padding: 0.5rem 1rem;
     font-size: 0.875rem;
+    border: 1px solid var(--light-primary-color);
 }
 
 .navItemContainer>a:hover {
@@ -105,6 +109,7 @@ a{
     cursor: default;
     transition: all;
     transition-duration: 200ms;
+    border: 1px solid var(--light-primary-color);
 }
 
 .dropdownContainer div {
@@ -144,13 +149,14 @@ a{
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
+    border: 1px solid var(--light-primary-color);
 }
 
 .subNavItemContainer>a:hover {
     background-color: var(--light-primary-color);
 }
 
-@media only screen and (min-width: 1025px) {
+@media only screen and (min-width: 768px) {
     .topbar {
         padding: 0.5rem 3rem;
         font-size: 1.25rem;
@@ -161,13 +167,17 @@ a{
     }
 
     .bannerContainer {
-        padding: 3rem;
+        padding: 2rem;
         gap: 2rem;
     }
 
     .logo {
         height: 10rem;
-        width: 10rem;
+        width: auto;
+    }
+
+    .logo.extra{
+        display: block;
     }
 
     .bannerTextContainer {
@@ -190,12 +200,18 @@ a{
 
     .navbar>.navItemContainer {
         align-self: center;
+        flex-wrap: wrap;
     }
 
     .navItemContainer > a{
         width: fit-content;
         padding: 1rem 1rem;
         font-size: 0.875rem;
+        border: none;
+    }
+
+    .navbar .dropdownContainer{
+        border: none;
     }
 
     .dropdownContainer div{
@@ -207,5 +223,6 @@ a{
     .subNavItemContainer > a{
         padding: 0.75rem 2rem;
         width: 100%;
+        border: none;
     }
 }

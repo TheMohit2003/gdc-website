@@ -1,10 +1,10 @@
-<div>
+<div class="header">
     <div class="topbar">
         <p>
             Email: GDC_aurangabad@edu.in
         </p>
         <p>
-            Phone: 91+ 99990111
+            Phone: 0240-2402383, 82, 81
         </p>
     </div>
 
@@ -12,7 +12,7 @@
         <img src="<?php echo $ROOTURL ?>public/assets/gdclogo1.png" class="logo" alt="" height="150" width="150" />
         <div class="bannerTextContainer">
             <h1>
-                GOVERNMENT DENTAL COLLEGE &amp; HOSPITAL,
+                GOVERNMENT DENTAL COLLEGE &amp; HOSPITAL
             </h1>
             <h1>
                 CHHATRAPATI SAMBAJINAGAR
@@ -25,6 +25,7 @@
             </h2>
         </div>
         <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraLogo.png" class="logo" alt="" height="150" width="150" />
+        <img src="<?php echo $ROOTURL ?>public/assets/governmentOfMaharashtraEmblem.png" class="logo extra" alt="" height="150" width="100" />
     </div>
 
     <div class="navbar">
@@ -92,7 +93,7 @@
                     <a href="<?php echo $ROOTURL ?>student-portal/carrier-guidance-cell"> CARRIER GUIDANCE CELL </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/feedback-and-validation"> FEEDBACK AND VALIDATION </a>
                     <a href="<?php echo $ROOTURL ?>student-portal/international-students-cell"> INTERNATIONAL STUDENTS CELL </a>
-                    <a href="<?php echo $ROOTURL ?>student-portal/equal-opportinity-cell"> EQUAL OPPORTINITY CELL </a>
+                    <a href="<?php echo $ROOTURL ?>student-portal/equal-opportunity-cell"> EQUAL OPPORTUNITY CELL </a>
                 </div>
             </div>
             <a href="<?php echo $ROOTURL ?>recruitment-cell">
@@ -124,7 +125,7 @@
                     <a href="<?php echo $ROOTURL ?>research/patents"> PATENTS </a>
                     <a href="<?php echo $ROOTURL ?>research/copyrights"> COPYRIGHTS </a>
                     <a href="<?php echo $ROOTURL ?>research/innovations"> INNOVATIONS </a>
-                    <a href="<?php echo $ROOTURL ?>research/interdesciplinary-activities"> INTERDESCIPLINARY ACTIVITIES </a>
+                    <a href="<?php echo $ROOTURL ?>research/interdisciplinary-activities"> INTERDISCIPLINARY ACTIVITIES </a>
                 </div>
             </div>
         </div>

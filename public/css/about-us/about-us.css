@@ -1,15 +1,14 @@
-
-.main{
+.main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: var(--secondary-color);
     padding: 1rem;
-    
+
 }
 
-.about-us-container{
+.about-us-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -18,71 +17,72 @@
     text-align: justify;
     width: 75%;
     margin: 1rem 1rem;
-    padding:1rem;
+    padding: 1rem;
     box-shadow: 1px 1px 2px grey;
     border-radius: 1rem;
     border: 2px solid var(--primary-color);
 }
 
-.certificate-container{
+.certificate-container {
     font-size: large;
-    
     color: var(--primary-color);
     font-weight: 500;
     box-shadow: 1px 1px 2px grey;
     border-radius: 1rem;
     border: 2px solid var(--primary-color);
-    padding:1rem;
+    padding: 1rem;
     margin: 1rem;
 
 
 }
 
-.unOrderedList{
+.unOrderedList {
     padding: 0;
     margin: 1rem;
 
 }
 
-.certificate-container a{
+.certificate-container a {
     font-size: large;
-    
+
     color: var(--primary-color);
     font-weight: 500;
-    padding:1rem;
-    
+    padding: 0.5rem;
+
 
 }
 
-.infra-container a{
+.infra-container a {
     font-size: large;
-    
+
     color: var(--primary-color);
     font-weight: 500;
     box-shadow: 1px 1px 2px grey;
     border-radius: 1rem;
     border: 2px solid var(--primary-color);
-    padding:1rem;
+    padding: 1rem;
 
 }
 
-a:hover{
+a:hover {
     cursor: pointer;
     text-decoration: underline;
 }
-.infra-container{
+
+.infra-container {
     gap: 1rem;
     display: flex;
 }
 
 
 @media only screen and (max-width: 768px) {
-  /* For mobile phones: */
+
+    /* For mobile phones: */
     .about-us-container {
         width: 95%;
         padding: 0.5rem;
     }
-    
+
 }
 
 /* .dept-list{
@@ -92,7 +92,7 @@ a:hover{
     font-size: 1.3rem;
 } */
 
-.departmentsList{
+.departmentsList {
     display: flex;
     flex-wrap: wrap;
     gap: 1.2rem;
@@ -101,15 +101,17 @@ a:hover{
     font-size: large;
 }
 
-.dept-title{
+.dept-title {
     font-size: 1.7rem;
 }
-.college-desc{
+
+.college-desc {
     font-size: 1.2rem;
     padding: 0 1rem;
 }
-.college-title{
+
+.college-title {
     font-size: 1.5rem;
     font-weight: bold;
-    padding: 0 1rem;    
+    padding: 0 1rem;
 }

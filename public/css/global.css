@@ -10,6 +10,26 @@ body{
     font-family: ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
 }
 
+.maintenanceContainer div{
+    font-size: 1rem;
+    padding: 2rem;
+}
+
+.maintenanceContainer p{
+    padding: 1rem;
+}
+
+.maintenanceContainer a{
+    color: var(--primary-color);
+    display: inline-block;
+    text-decoration: underline;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
+
 .pageBanner {
     position: relative;
 }
@@ -36,6 +56,16 @@ body{
 }
 
 @media only screen and (min-width: 768px){
+    .maintenanceContainer{
+        width: 70%;
+        margin: auto;
+    }
+
+    .maintenanceContainer div{
+        font-size: 2rem;
+        padding: 4rem;
+    }
+
     .pageBanner >h1{
         padding: 8rem 0;
         font-size: 2rem;

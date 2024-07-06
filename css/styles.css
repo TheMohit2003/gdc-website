@@ -63,30 +63,33 @@
 
 .collegeIntro {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     align-items: center;
-    font-size: 0.875rem;
+    font-size: 0.75rem;
 }
 
 .contentContainer>.collegeIntro>h1 {
-    font-size: 1.125rem;
+    font-size: 1rem;
     font-weight: bold;
     font-family: serif;
-    margin-bottom: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 .collegeIntro>div {
+    width: 100%;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     text-align: justify;
     align-items: center;
-    gap: 1rem;
+    gap: 2rem;
 }
 
-.collegeIntro>iframe {
-    margin: 1rem auto;
-    max-width: 100%;
+.collegeIntro>div>iframe {
+    margin: auto;
     height: auto;
+    width: auto;
     aspect-ratio: 16 / 9;
 }
 
@@ -108,13 +111,23 @@
 }
 
 .deansMessage>div {
-    font-size: 0.875rem;
+    font-size: 0.75rem;
     text-align: justify;
     display: flex;
     flex-direction: column;
-    align-items: center;
     gap: 1rem;
     padding: 1rem 0;
+}
+
+.deansMessage h2{
+    text-align: start;
+    color: var(--primary-color);
+    font-size: 0.75rem;
+}
+
+.deansMessage strong{
+    color: var(--primary-color);
+    font-size: 0.75rem;
 }
 
 .deansMessage>div>a {
@@ -128,11 +141,10 @@
 }
 
 .contentContainer>div>h1 {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: bold;
     color: var(--primary-color);
     text-align: center;
-    margin-top: 2rem;
     margin-bottom: 1rem;
     text-transform: uppercase;
 }
@@ -168,34 +180,44 @@
     }
 
     .contentContainer>div>h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
-    .contentContainer>div>p {
+    .collegeIntro {
         font-size: 1rem;
     }
 
     .contentContainer>.collegeIntro>h1 {
-        font-size: 2rem;
-    }
-
-    .collegeIntro {
-        font-size: 1.375rem;
+        font-size: 1.5rem;
+        text-align: center;
     }
 
     .collegeIntro>div {
-        width: 50%;
+        flex-direction: row;
     }
 
-    .collegeIntro>iframe {
-        max-width: 50%;
+    .collegeIntro > div>p{
+        flex: 1 1 50%;
+    }
+
+    .collegeIntro>div>iframe {
+        flex: 1 1 400px;
     }
 
     .deansMessage>img {
-        height: 500px;
+        width: 400px;
+        height: auto;
     }
 
     .deansMessage > div{
-        font-size: 1.25rem;
+        font-size: 1rem;
+    }
+    
+    .deansMessage h2{
+        font-size: 1rem;
+    }
+    
+    .deansMessage strong{
+        font-size: 1rem;
     }
 }

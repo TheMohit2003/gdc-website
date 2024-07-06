@@ -28,6 +28,12 @@
             </a>
         </div>
         <div>
+            <span>Important</span>
+            <a href="<?php echo $ROOTURL ?>public/assets/17-babi-december-2020.pdf" target="_blank">
+                17 Babi
+            </a>
+        </div>
+        <div>
             <span>Contact Us</span>
             <p>
                 Email: GDC_aurangabad@edu.in
@@ -43,6 +49,6 @@
         </div>
     </div>
     <div class="secondaryFooter">
-        © Copyright GDC 2022. Designed and Developed by MIT.
+        © Copyright GDC&H Sambhajinagar 2024. Designed and Developed by MIT Sambhajinagar.
     </div>
 </div>

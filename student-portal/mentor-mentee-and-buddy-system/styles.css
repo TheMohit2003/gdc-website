@@ -7,7 +7,7 @@
 }
 
 .contentContainer > div > h1{
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: bold;
     color: var(--primary-color);
     text-align: center;
@@ -33,7 +33,7 @@
 
 .contentContainer .mentorMenteeIntro{
     margin-top: 2rem;
-    font-size: 1rem;
+    font-size: 0.75rem;
 }
 
 @media only screen and (min-width: 768px) {
@@ -43,7 +43,7 @@
     }
 
     .contentContainer > div > h1{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .contentContainer > div > p{
@@ -57,6 +57,6 @@
     }
 
     .contentContainer .mentorMenteeIntro{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 }

@@ -105,8 +105,8 @@ $CURRENTDIRURL = $ROOTURL . "";
                 <p>
                     <strong>Govt Dental College and Hospital, Chatrapati Sambhajinagar</strong> is one of the reputed Govt. Dental Colleges in Maharashtra. The college is popularly known as GDCH Chatrapati Sambhajinagar and was founded in the year 1982-83. The college was established to fortify the weakest section of the Nation, i.e. Rural population. It was started to serve students with the best dental care and Oral and Maxillofacial Surgery. The college is affiliated with the Maharashtra University of Health Sciences, Nashik, and is approved by the Dental Council of India, Govt. of India.
                 </p>
+                <iframe width="590" height="332" src="https://www.youtube.com/embed/kHhK1icL3qw" title="FINAL DENTAL VIDEO" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
             </div>
-            <iframe width="590" height="332" src="https://www.youtube.com/embed/kHhK1icL3qw" title="FINAL DENTAL VIDEO" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
         </div>
 
         <?php include($ROOT . "includes/horizontalRule.php"); ?>
@@ -123,9 +123,27 @@ $CURRENTDIRURL = $ROOTURL . "";
                 <p>
                     At our institution, we are dedicated to fostering excellence in dental education, research, and patient care. Our distinguished faculty members are committed to provide you with the highest quality education. Our graduates leave here not only as skilled clinicians, but also as compassionate healthcare providers.
                 </p>
-                <a href="<?php echo $CURRENTDIRURL ?>deans-message/">
-                    read more
-                </a>
+                <p className="text-justify mb-4">
+                    Our mission is clear: To empower our students with the knowledge, skills, and compassion needed to excel in the field of dentistry. We pride ourselves on providing a comprehensive education that blends cutting-edge technology with hands-on clinical experience.
+                </p>
+                <p className="text-justify mb-4">
+                    We are also deeply committed to advancing dental research, pushing boundaries, and contributing to the evolving landscape of oral healthcare. Through our collaborative efforts, we aim to make lasting contributions to the field.
+                </p>
+                <p className="text-justify mb-4">
+                    I encourage you to explore our website and learn more about the exciting opportunities and resources we offer. Whether you are a prospective student, a current member of our community, or a visitor interested in our work, I am confident you will find something inspiring here.
+                </p>
+                <h2 className="font-semibold">
+                    Regards
+                </h2>
+                <h2 className="font-semibold">
+                    Dr.(Mrs). Maya.S.Indurkar
+                </h2>
+                <h2 className="font-semibold">
+                    Dean,Professor Periodontology and  Implantology
+                </h2>
+                <h2 className="font-semibold">
+                    Govt Dental College Chh.Sambhajinagar(Aurangabad)
+                </h2>
             </div>
         </div>
     </div>

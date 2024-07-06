@@ -39,9 +39,10 @@
 
 .galleryCard > p{
     margin-top: 1rem;
-    font-size: 1rem;
+    font-size: 0.75rem;
     font-weight: bolder;
     text-align: center;
+    color: var(--primary-color);
 }
 
 @media only screen and (min-width: 768px) {
@@ -52,5 +53,9 @@
     .galleryCard > img{
         max-width: 500px;
         max-height: 300px;
+    }
+
+    .galleryCard >p{
+        font-size: 1rem;
     }
 }
