@@ -133,17 +133,19 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
             <h1 class="title">
                  Mission & Vision
             </h1>
-            <p class="italic mt-4">
-                &#10003; To foster the development of dentist who will brining profound
-            integrity and character to every endeavor, while demonstrating the
-            highest quality clinical knowledge and expertise.
-            </p>
-            <p class="italic mt-4">
-                &#10003; The Students should achieve academic excellence, Provide the best
-            oral health care, and engage in research scholarship, and creative
-            endeavors to improve the health of the highly diverse populations in
-            India.
-            </p>
+            <ul>
+                <li class="italic mt-4">
+                    To foster the development of dentist who will brining profound
+                integrity and character to every endeavor, while demonstrating the
+                highest quality clinical knowledge and expertise.
+                </li>
+                <li class="italic mt-4">
+                     The Students should achieve academic excellence, Provide the best
+                oral health care, and engage in research scholarship, and creative
+                endeavors to improve the health of the highly diverse populations in
+                India.
+                </li>
+            </ul>
             
         </div>
         <div class="missionCard">
@@ -181,42 +183,42 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
 
         <div>
             <h1>ACTIVITIES</h1>
-            
-            <p>
-                &#10003; THEORY CLASSES :  The
-              undergraduate students begin with lectures in the III year of BDS
-              .Theory (65 lecture hours) - III yr (20 hrs) and IV yr (45hrs).
-            </p>
-            <p>
-                &#10003; CLINICAL TRAINING : 
-              Detailed case history and discussion, Oral prophylaxis,
-              Restorative procedures, Extractions, Topical fluoride applications
-              procedures are taught in their clinical postings.
-            </p>
-            <p>
-                &#10003; PRACTICAL (170 hrs) :
-              III yr (70 hrs) and IV yr (100hrs).
-              (Total- 235 hrs)
-            </p>
-            <p>
-                &#10003; SEMINAR PRESENTATION :
-              The students are required to present two seminars, one minor at
-              the end of the III year BDS and a major seminar in the final year
-              of BDS.
-            </p>
-            <p>
-                &#10003; COMMUNITY PROGRAMMES :
-              Students are also encouraged to participate in the programmes such
-              as treatment camps. People are made aware through these camps
-              regarding their dental health.
-            </p>
-            <p>
-                &#10003; PROJECT WORK :
-              Students are required to submit a project in their final year
-              which is usually related to the development of a teaching aid or
-              the development of an aid for behavior management.
-            </p>
-            
+            <ul>
+                <li>
+                    THEORY CLASSES :  The
+                undergraduate students begin with lectures in the III year of BDS
+                .Theory (65 lecture hours) - III yr (20 hrs) and IV yr (45hrs).
+                </li>
+                <li>
+                    CLINICAL TRAINING : 
+                Detailed case history and discussion, Oral prophylaxis,
+                Restorative procedures, Extractions, Topical fluoride applications
+                procedures are taught in their clinical postings.
+                </li>
+                <li>
+                    PRACTICAL (170 hrs) :
+                III yr (70 hrs) and IV yr (100hrs).
+                (Total- 235 hrs)
+                </li>
+                <li>
+                    SEMINAR PRESENTATION :
+                The students are required to present two seminars, one minor at
+                the end of the III year BDS and a major seminar in the final year
+                of BDS.
+                </li>
+                <li>
+                    COMMUNITY PROGRAMMES :
+                Students are also encouraged to participate in the programmes such
+                as treatment camps. People are made aware through these camps
+                regarding their dental health.
+                </li>
+                <li>
+                    PROJECT WORK :
+                Students are required to submit a project in their final year
+                which is usually related to the development of a teaching aid or
+                the development of an aid for behavior management.
+                </li>
+            </ul>
         </div>
 
         <div>

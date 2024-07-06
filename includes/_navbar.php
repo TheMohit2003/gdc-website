@@ -1,10 +1,10 @@
 <div>
     <div class="topbar">
         <p>
-            Email: GDC_aurangabad@edu.in
+            Email: gdca83@yahoo.com
         </p>
         <p>
-            Phone: 91+ 99990111
+            Phone: 0240-2402383,82,81
         </p>
     </div>
 
