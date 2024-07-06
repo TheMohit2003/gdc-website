@@ -62,27 +62,6 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
                     <p>Professor (MPSC) and Head, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drSwethaKannamparambil/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drSwethaKannamparambil/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Swetha Kannamparambil
-                    </a>
-                    <p>Assistant Professor, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drAnjaliEknathMule/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drAnjaliEknathMule/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Anjali Eknath Mule
-                    </a>
-                    <p>Assistant Professor, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drGeetamUttamDuduskar/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drGeetamUttamDuduskar/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Geetam Uttam Duduskar
-                    </a>
-                    <p>Assistant Professor, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/drMadhuriMilindAmbhure/profilePic.png" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/drMadhuriMilindAmbhure/cv.pdf" type="application/pdf" target="_blank" >
                         Dr. Madhuri Milind Ambhure
@@ -95,13 +74,6 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
                         Dr. Seema Dhananjay Pathak
                     </a>
                     <p>Associate Professor, Dept. of Conservative Dentistry, ...</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drSuyogManoharJadhav/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drSuyogManoharJadhav/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Suyog Manohar Jadhav
-                    </a>
-                    <p>Assistant Professor, Dept. of Conservative Dentistry</p>
                 </div>
             </div>
         </div>

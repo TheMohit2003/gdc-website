@@ -8,7 +8,6 @@
 
 ul li::marker{
   color: var(--primary-color);
-
 }
 
 .contentContainer > div > h1 {
@@ -37,6 +36,7 @@ ul li::marker{
 
 .contentContainer li{
     margin: 0.5rem 0;
+    list-style-position: inside;
 }
 
 .list_inside {
