@@ -108,33 +108,40 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-surgery/";
             <h1 class="title">
                 Vision
             </h1>
-            <p class="italic mt-4">
-                &#10003; Vision of Department of Oral and Maxillofacial Surgery is to train
-              under graduate and post graduate students to attend the highest
-              standard of education in the field of oral and maxillofacial
-              surgery.
-            </p>
-            <p class="italic mt-4">
-                &#10003; Department of Oral and Maxillofacial Surgery hopes to bring
-              together all education facilities of the highest order to train
-              personnel in the field of oral and Maxillofacial surgery and set
-              up state of art facilities in order to provide best possible care
-              for patients.
-            </p>
-            <p class="italic mt-4">
-                &#10003; In addition setting a platform for research of international
-              standards and conducting high-quality research is an integral part
-              of Department of oral and Maxillofacial surgery.
-            </p>
+            <ul>
+
+            
+                <li class="italic mt-4">
+                    Vision of Department of Oral and Maxillofacial Surgery is to train
+                under graduate and post graduate students to attend the highest
+                standard of education in the field of oral and maxillofacial
+                surgery.
+                </li>
+                <li class="italic mt-4">
+                    Department of Oral and Maxillofacial Surgery hopes to bring
+                together all education facilities of the highest order to train
+                personnel in the field of oral and Maxillofacial surgery and set
+                up state of art facilities in order to provide best possible care
+                for patients.
+                </li>
+                <li class="italic mt-4">
+                    In addition setting a platform for research of international
+                standards and conducting high-quality research is an integral part
+                of Department of oral and Maxillofacial surgery.
+                </li>
+            </ul>
             
         </div>
         <div class="missionCard">
             <h1 class="title">
                 Mission
             </h1>
-            <p class="italic mt-4">
-                &#10003; The mission of Department of Oral and Maxillofacial Surgery is to improve performance of the oral health system, oral health status and awareness through education, research and service. Department of Oral and Maxillofacial Surgery believes in being paradigm shift in education & healing.
-            </p>
+            <ul>
+
+                <li class="italic mt-4">
+                    The mission of Department of Oral and Maxillofacial Surgery is to improve performance of the oral health system, oral health status and awareness through education, research and service. Department of Oral and Maxillofacial Surgery believes in being paradigm shift in education & healing.
+                </li>
+            </ul>
             
         </div>
 

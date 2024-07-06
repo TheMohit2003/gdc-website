@@ -108,18 +108,21 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
             <h1 class="title">
                  Patient Services
             </h1>
-            <p class="italic mt-4">
-                &#10003; History and clinical examination of the patients attending the OPD Investigations of the patients if warranted and medicinal treatment if required.
+            <ul>
+                <li class="italic ">
+                 History and clinical examination of the patients attending the OPD Investigations of the patients if warranted and medicinal treatment if required.
 
-            </p>
-            <p class="italic mt-4">
-                &#10003; Radiographic investigations includes IOPA, RVG, Conventional & Digital OPG, Cephalometric, other extraoral views, Cone Beam Computed Tomography & phosphor plate scanner.
+                </li>
+                <li class="italic">
+                 Radiographic investigations includes IOPA, RVG, Conventional & Digital OPG, Cephalometric, other extraoral views, Cone Beam Computed Tomography & phosphor plate scanner.
 
-            </p>
-            <P>
-               &#10003; Cancer Detection Centre: Clinical Diagnosis and Management Of Premalignant Lesions & conditions and their referral.
+                </li>
+                <li>
+                Cancer Detection Centre: Clinical Diagnosis and Management Of Premalignant Lesions & conditions and their referral.
 
-            </P>
+                </li>
+            </ul>
+            
             
         </div>
         <div class="missionCard">
@@ -137,41 +140,43 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
 
         <div>
             <h1>Lab/Research</h1>
+            <ul>
+
             
-            <p>
-                &#10003; CBCT in diagnostic imaging of TMJ. 
-            </p>
-            <p>
-                &#10003; Prevalence of premalignant lesions & conditions in marathwada region.
-            </p>
-            <p>
-                &#10003; Application of Cone Beam Computed Tomography Gray Scale Values in the Diagnosis of Cysts and Tumors of Orofacial region – A Cross-sectional study.
-            </p>
-            <p>
-                &#10003; Gender Determination By Using Byzygomatic Width and Intercondylar Distance – A CBCT Study.
-            </p>
-            <p>
-                &#10003; Radiomorphometric Assessment Of the Submandibular Gland Fossa And Its Correlation With Mandibular Canal In Patients Requiring Dental Implants – A CBCT Study.
-            </p>
-            <p>
-                &#10003; Assessment of Reliability of Central Incisors and Canines in Bimaxillary Arches for Volumetric Age Assessment in Marathwada Population- A Cross Sectional Study.
-            </p>
-            <p>
-                &#10003; Radiomorphometric Assessment of Temporomandibular Joint Spaces, Mandibular Condyle and Glenoid Fossa Using CBCT- A Cross Sectional Study.
-            </p>
-            <p>
-                &#10003; Morphological Analysis of the Nasopalatine Canal and its Variation with Gender and Age: A CBCT Study.
-            </p>
-            <p>
-                &#10003; Evaluation  of Pattern of Mandibular  Fracture in Trauma Patients: A Retrospective CBCT Study.
-            </p>
-            <p>
-                &#10003; Assessment of Lateral Pterygoid Plate Length in Patients with Temporomandibular Joint Disorder (TMD): A CBCT Study.
-            </p>
-            <p>
-                &#10003; Evaluation of Volumetric and Dimensional Changes of Pharyngeal Airway Space in OSMF Patients - A Cross Sectional Study.
-            </p>
-            
+                <li>
+                    CBCT in diagnostic imaging of TMJ. 
+                </li>
+                <li>
+                    Prevalence of premalignant lesions & conditions in marathwada region.
+                </li>
+                <li>
+                    Application of Cone Beam Computed Tomography Gray Scale Values in the Diagnosis of Cysts and Tumors of Orofacial region – A Cross-sectional study.
+                </li>
+                <li>
+                    Gender Determination By Using Byzygomatic Width and Intercondylar Distance – A CBCT Study.
+                </li>
+                <li>
+                    Radiomorphometric Assessment Of the Submandibular Gland Fossa And Its Correlation With Mandibular Canal In Patients Requiring Dental Implants – A CBCT Study.
+                </li>
+                <li>
+                    Assessment of Reliability of Central Incisors and Canines in Bimaxillary Arches for Volumetric Age Assessment in Marathwada Population- A Cross Sectional Study.
+                </li>
+                <li>
+                    Radiomorphometric Assessment of Temporomandibular Joint Spaces, Mandibular Condyle and Glenoid Fossa Using CBCT- A Cross Sectional Study.
+                </li>
+                <li>
+                    Morphological Analysis of the Nasopalatine Canal and its Variation with Gender and Age: A CBCT Study.
+                </li>
+                <li>
+                    Evaluation  of Pattern of Mandibular  Fracture in Trauma Patients: A Retrospective CBCT Study.
+                </li>
+                <li>
+                    Assessment of Lateral Pterygoid Plate Length in Patients with Temporomandibular Joint Disorder (TMD): A CBCT Study.
+                </li>
+                <li>
+                    Evaluation of Volumetric and Dimensional Changes of Pharyngeal Airway Space in OSMF Patients - A Cross Sectional Study.
+                </li>
+            </ul>
         </div>
 
         <!-- <div>

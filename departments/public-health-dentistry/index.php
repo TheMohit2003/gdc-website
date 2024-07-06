@@ -44,26 +44,30 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
             <h1 class="title">
                 Vision
             </h1>
-            <p class="italic mt-4">
-                &#10003; To educate each & every patient and public visiting to the Government Dental College & Hospital about preventing dental diseases and promoting oral health 
-            </p>
-            <p class="italic mt-4">
-                &#10003; To develop comprehensive dental health care center and tobacco cessation clinic under the umbrella of our department 
-            </p>
-            <p class="italic mt-4">
-                &#10003; To deliver dental health services through mobile dental van to needy and underprivileged people staying at disadvantageous locations.
-            </p>
-            <p class="italic mt-4">
-                &#10003; To increase the number of camps to the maximum in this region.
-            </p>   
+            <ul>
+                <li class="italic mt-4">
+                    To educate each & every patient and public visiting to the Government Dental College & Hospital about preventing dental diseases and promoting oral health 
+                </li>
+                <li class="italic mt-4">
+                    To develop comprehensive dental health care center and tobacco cessation clinic under the umbrella of our department 
+                </li>
+                <li class="italic mt-4">
+                    To deliver dental health services through mobile dental van to needy and underprivileged people staying at disadvantageous locations.
+                </li>
+                <li class="italic mt-4">
+                    To increase the number of camps to the maximum in this region.
+                </li> 
+             </ul>  
         </div>
         <div class="missionCard">
             <h1 class="title">
                 Mission
             </h1>
-            <p class="italic mt-4">
-                &#10003; Preventing oral diseases and promoting oral health of the community through motivation education & intervening disease with special emphasis on preventing & controlling tobacco habits & incidence of   oral cancer among the public. 
-            </p>
+            <ul>
+                <li class="italic mt-4">
+                    Preventing oral diseases and promoting oral health of the community through motivation education & intervening disease with special emphasis on preventing & controlling tobacco habits & incidence of   oral cancer among the public. 
+                </li>
+            </ul>
         </div>
         <div>
             <h1>
@@ -127,7 +131,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
             </ol>
         </div>
 
-<div>
+<div class="table-container">
     <h1>PATIENT SERVICES </h1>
     <h2 class="text-center" style="margin-bottom: 1.5rem;">Total Number Of Patients Covered In The Outreach Programs FROM JAN  2014 TO AUGUST 2023</h2>
     

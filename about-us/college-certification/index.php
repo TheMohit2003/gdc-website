@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CUURENTDIRURL = $ROOTURL . "about-us/about-college/";
+$CURRENTDIRURL = $ROOTURL . "about-us/college-certification/";
 
 ?>
 
@@ -36,16 +36,16 @@ $CUURENTDIRURL = $ROOTURL . "about-us/about-college/";
             <div class="certificate-container">
                 <h3>Affiliation</h3>
                 <ul class="unOrderedList">
-                    <li><a href="/">Affiliaiton Letter of BDS course for A Y 2024-25.pdf</a></li>
-                    <li><a href="/">Affiliation Letter of MDS course for A Y 2024 25.pdf</a></li>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/Affiliation/Affiliation Letter of BDS course for A Y 2024-25.pdf">Affiliaition Letter of BDS course for A Y 2024-25.pdf</a></li>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/Affiliation/Affiliation Letter of  MDS course for A Y 2024 25.pdf">Affiliatiion Letter of MDS course for A Y 2024 25.pdf</a></li>
                 </ul>
                 <hr>
                 <h3>Recognition</h3>
                 <ul class="unOrderedList">
-                    <li><a href="/">Orthodontics and Oral Surgery Recognition Letter.pdf</a></li>
-                    <li><a href="/">Rcognition Letter MOH & FW Oral Pathology, Conserv…riodontics and Prosthodontics 03 MDS Seats (1).pdf</a></li>
-                    <li><a href="/">Recognition Letter for Oral Medicine.pdf</a></li>
-                    <li><a href="/">Recognition Letter Prosthodontics 05 to 06 Seats.pdf</a></li>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/Recognitions/Orthodontics and Oral Surgery Recognition Letter.pdf">Orthodontics and Oral Surgery Recognition Letter.pdf</a></li>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/Recognitions/Recognition Letter MOH & FW Oral Pathology, Conservative Dentistry, Periodontics and Prosthodontics 03 MDS Seats (1).pdf">Recognition Letter MOH & FW Oral Pathology, Conserv…riodontics and Prosthodontics 03 MDS Seats (1).pdf</a></li>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/Recognitions/Recognition Letter for Oral Medicine.pdf">Recognition Letter for Oral Medicine.pdf</a></li>
+                    <li><a href="<?php echo $CURRENTDIRURL ?>assets/Recognitions/Recognition Letter Prosthodontics 05 to 06 Seats.pdf">Recognition Letter Prosthodontics 05 to 06 Seats.pdf</a></li>
                 </ul>
             </div> 
         </div>           
