@@ -65,9 +65,9 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             </div>
         </div>
 
-        <div class="missionCard">
+        <div class="visionCard">
             <h1 class="title">
-                Vission
+                Vision
             </h1>
             <p class="italic mt-4">
                To become centre of excellence at par with global standards, through patient-centred education, state of the art orthodontic technology and advanced research.
@@ -75,7 +75,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             
         </div>
 
-        <div class="visionCard">
+        <div class=" missionCard">
             <h1 class="title">
                  Mission
             </h1>

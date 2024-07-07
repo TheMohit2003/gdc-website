@@ -34,7 +34,7 @@ $CUURENTDIRURL = $ROOTURL . "about-us/about-college/";
     <div>
         <div class="main">
             <div class="about-us-container">
-                <h2 class="college-title">Government Dental College & Hospital Sambhajinagar</h2>
+                <h2 class="college-title">Government Dental College & Hospital Chhatrapati Sambhajinagar</h2>
                 <p class="college-desc">
                     Govt Dental College and Hospital, Chatrapati Sambhajinagar is one of the reputed Govt. Dental Colleges in Maharashtra. The college is popularly known as GDCH Chatrapati Sambhajinagar and was founded in the year 1982-83. The college was established to fortify the weakest section of the Nation, i.e. Rural population. It was started to serve students with the best dental care and Oral and Maxillofacial Surgery. The college is affiliated with the Maharashtra University of Health Sciences, Nashik, and is approved by the Dental Council of India, Govt. of India.
                 </p>
@@ -48,15 +48,15 @@ $CUURENTDIRURL = $ROOTURL . "about-us/about-college/";
                     <ul>
                         <li>Oral Medicine and Radiology</li>
                         <li>Oral and Maxillofacial Surgery</li>
-                        <li>Prosthodontics and Crown & Bridge</li>
-                        <li>Periodontology</li>
-                        <li>Oral and Maxillofacial Pathology</li>
+                        <li>Periodontics</li>
+                        <li>Public Health Dentistry</li>
+                        <li>Pediatric and Preventive Dentistry</li>
                     </ul>
                     <ul>
-                        <li>Orthodontics and Dentofacial Orthopaedics</li>
                         <li>Conservative Dentistry and Endodontics</li>
-                        <li>Oral Pathology and Microbiology</li>
-                        <li>Public Health Dentistry</li>
+                        <li>Orthodontics</li>
+                        <li>Prosthodontics</li>
+                        <li>Oral Pathology</li>
                     </ul>
                 </div>
                 

@@ -53,35 +53,35 @@ $CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Kishor-Mahale/Kishor-Mahale.pdf" type="application/pdf" target="_blank" >
                         Dr. Kishor Madhukar Mahale
                     </a>
-                    <p>Professor and Head of Department, Dept. of Periodontology</p>
+                    <p>Professor and Head of Department, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/Smita-Khalikar/Photo.jpg" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Smita-Khalikar/Smita-Khalikar.pdf" type="application/pdf" target="_blank" >
                         Dr. Smita Arun Khalikar
                     </a>
-                    <p>Associate Profesor, Dept. of Periodontology</p>
+                    <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/Vilas-Rajguru/Photo.jpg" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Vilas-Rajguru/Vilas-Rajguru.pdf" type="application/pdf" target="_blank" >
                         Dr. Vilas L. Rajguru
                     </a>
-                    <p>Associate Profesor, Dept. of Periodontology</p>
+                    <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Sonali-Mahajan/Sonali-Mahajan.pdf" type="application/pdf" target="_blank" >
                         Dr. Sonali Vishal Mahajan
                     </a>
-                    <p>Associate Profesor, Dept. of Periodontology</p>
+                    <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/Ulhas-Tandale/Photo.jpg" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Ulhas-Tandale/Ulhas-Tandale.pdf" type="application/pdf" target="_blank" >
                         Dr. Ulhas Eknathrao Tandale
                     </a>
-                    <p>Associate Profesor, Dept. of Periodontology</p>
+                    <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>  
             </div>
         </div>

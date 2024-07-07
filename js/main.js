@@ -2,7 +2,7 @@ let carousel = document.querySelector(".carousel");
 let carouselLeftBtn = document.querySelector(".carouselContainer > button.left");
 let carouselRightBtn = document.querySelector(".carouselContainer > button.right");
 let carouselIndex = 0;
-let carouselSize = 20;
+let carouselSize = 18;
 
 function moveCarouselForward(){
     carouselIndex += 1;
