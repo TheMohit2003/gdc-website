@@ -135,7 +135,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
             </ul>
         </div>
 
-        <div>
+        <div class="visionCard">
             <h1>Scope and Importance of the Subject</h1>
             <p>
                 Conservative Dentistry and Endodontics is a branch of dentistry that deals with treatment of carious, malformed or fractured teeth as well as discoloured or aesthetic correction and endodontics deals with treatment of pulpal and periapical diseases and Dental Pain Management. It is popularly known as the ‘Bread and Butter of Dentistry.’
