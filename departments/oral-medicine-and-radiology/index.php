@@ -138,7 +138,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/pedodontics/";
         </div>
 
 
-        <div>
+        <div class="missionCard">
             <h1>Lab/Research</h1>
             <ul>
 

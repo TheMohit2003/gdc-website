@@ -37,6 +37,7 @@ ul li::marker{
 .contentContainer li{
     margin: 0.5rem 0;
     list-style-position: inside;
+    font-size: 1rem;
 }
 
 .list_inside {
@@ -219,6 +220,13 @@ span {
     font-size: 0.75rem /* 12px */;
     line-height: 1rem /* 16px */;
   }
+  .contentContainer li{
+    font-size: .75rem;
+  }
+  .contentContainer > div > h1 {
+    font-weight: 700;  }
+  .contentContainer > div > h2 {
+    font-weight: 500;  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -230,7 +238,7 @@ span {
   .contentContainer > div > h1 {
     font-size: 1.5rem;
   }
-
+  
   .contentContainer > div > p {
     font-size: 1rem;
   }

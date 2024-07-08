@@ -95,7 +95,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             </ul>
         </div>
 
-        <div>
+        <div class="visionCard">
             <h1>FUTURE ASPECTS</h1>
             <ul>
                 <li>Preclinical virtual skill development using case based and simulation based learning.</li>
@@ -114,7 +114,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             </ul>
         </div>
 
-        <div>
+        <div class="visionCard">
             <h1>CORE COMPETENCIES</h1>
             <ul>
                 <li>Preventive and Interceptive treatment</li>
