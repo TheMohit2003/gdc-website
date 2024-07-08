@@ -36,10 +36,10 @@
         <div>
             <span>Contact Us</span>
             <p>
-                Email: GDC_aurangabad@edu.in
+                Email: gdca83@yahoo.com
             </p>
             <p>
-                Phone No.: +91 99990111
+                Phone: 0240-2402383, 82, 81
             </p>
             <p>
                 <a href="https://www.facebook.com/profile.php?id=100063937994949&mibextid=ZbWKwL" target="_blank">
