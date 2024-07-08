@@ -29,6 +29,14 @@
     margin-bottom: 1rem;
 }
 
+.contentContainer > div > a{
+    text-align: justify;
+    font-size: 0.75rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
 .contentContainer > div > p{
     text-align: justify;
     font-size: 0.75rem;
@@ -46,6 +54,10 @@
     }
 
     .contentContainer > div > li{
+        font-size: 1rem;
+    }
+
+    .contentContainer > div > a{
         font-size: 1rem;
     }
 

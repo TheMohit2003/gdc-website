@@ -24,6 +24,7 @@ function handleHamburgerClick() {
 
 let dropdownNavItems = document.querySelectorAll(".dropdownContainer");
 for (let x of dropdownNavItems) {
+    let windowWidth = window.innerWidth;
     let dropdownBtn = x.querySelector(":first-child")
     let dropdown = x.querySelector(".subNavItemContainer");
     dropdown.style["display"] = "none";
@@ -41,6 +42,11 @@ for (let x of dropdownNavItems) {
                 dropdown.style["position"] = "absolute";
             }
         }
+
+        if(window.innerWidth > windowWidth){
+            dropdown.style["right"] = "0";
+            dropdown.style["left"] = "auto";
+        }
     })
     x.addEventListener("mouseenter", () => {
         // if(window.matchMedia("(min-width: 768px)").matches){
@@ -51,6 +57,11 @@ for (let x of dropdownNavItems) {
             dropdown.style["height"] = "fit-content";
             dropdown.style["position"] = "absolute";
         // }
+
+        if(window.innerWidth > windowWidth){
+            dropdown.style["right"] = "0";
+            dropdown.style["left"] = "auto";
+        }
     });
     x.addEventListener("mouseleave", () => {
         // if(window.matchMedia("(min-width: 768px)").matches){

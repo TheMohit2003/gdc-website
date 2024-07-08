@@ -28,12 +28,13 @@
 }
 
 .logo {
-    height: 4rem;
+    /* height: 4rem; */
+    height: 12vw;
     width: auto;
 }
 
 .logo.extra{
-    display: none;
+    /* display: none; */
 }
 
 .bannerTextContainer {
@@ -41,12 +42,14 @@
 }
 
 .bannerTextContainer>h1 {
-    font-size: 0.625rem;
+    /* font-size: 0.625rem; */
+    font-size: 3vw;
     font-weight: bolder;
 }
 
 .bannerTextContainer>h2 {
-    font-size: 0.5rem;
+    /* font-size: 0.5rem; */
+    font-size: 2vw;
     font-weight: bolder;
 }
 
@@ -172,7 +175,8 @@
     }
 
     .logo {
-        height: 10rem;
+        /* height: 10rem; */
+        height: 10vw;
         width: auto;
     }
 
@@ -185,12 +189,14 @@
     }
 
     .bannerTextContainer>h1 {
-        font-size: 2rem;
+        /* font-size: 2rem; */
+        font-size: 2vw;
         font-weight: bolder;
     }
 
     .bannerTextContainer>h2 {
-        font-size: 1.25rem;
+        /* font-size: 1.25rem; */
+        font-size: 1vw;
         font-weight: bolder;
     }
 
