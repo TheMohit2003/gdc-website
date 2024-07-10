@@ -72,63 +72,6 @@ $CUURENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
            
         </div>
 
-        <!-- <div>
-            <h1>
-                Our Faculty
-            </h1>
-            <div class="facultyGallery">
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drPradnyaVilasBansode/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drPradnyaVilasBansode/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Pradnya Vilas Bansode
-                    </a>
-                    <p>Professor (MPSC) and Head, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drSwethaKannamparambil/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drSwethaKannamparambil/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Swetha Kannamparambil
-                    </a>
-                    <p>Assistant Professor, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drAnjaliEknathMule/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drAnjaliEknathMule/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Anjali Eknath Mule
-                    </a>
-                    <p>Assistant Professor, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drGeetamUttamDuduskar/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drGeetamUttamDuduskar/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Geetam Uttam Duduskar
-                    </a>
-                    <p>Assistant Professor, Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drMadhuriMilindAmbhure/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drMadhuriMilindAmbhure/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Madhuri Milind Ambhure
-                    </a>
-                    <p>Associate Professor (MPSC), Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drSeemaDhananjayPathak/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drSeemaDhananjayPathak/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Seema Dhananjay Pathak
-                    </a>
-                    <p>Associate Professor, Dept. of Conservative Dentistry, ...</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drSuyogManoharJadhav/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drSuyogManoharJadhav/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Suyog Manohar Jadhav
-                    </a>
-                    <p>Assistant Professor, Dept. of Conservative Dentistry</p>
-                </div>
-            </div>
-        </div> -->
-
         <div class="visionCard">
             <h1 class="title">
                  Mission & Vision
@@ -148,41 +91,10 @@ $CUURENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
             </ul>
             
         </div>
-        <div class="missionCard">
-            <h1 class="title">
-                Goals of the Department
-            </h1>
-            <p class="italic mt-4">
-               The goal of our department is to provide basic and advance
-              treatment modalities for children suffering with dental issues.
-              The college aims to provide high quality education to the budding
-              dentist by means of improved understanding of the diagnosis and
-              treatment planning of various types of oral health issues in
-              pediatric patients along with imbibing the students with behavior
-              management skills.
-            </p>
-            
-        </div>
-        <div class="missionCard">
-            <h1 class="title">
-                Patients Service
-            </h1>
-            <p class="italic mt-4">
-               The department is well equipped with all the latest infrastructure
-            which helps in the course of diagnosis and treatment planning of a
-            particular patient. The department is kids friendly and kept in par
-            to the specifications given by the dental council of India. We also
-            focuses on patients who are dependent on care takers for their day
-            to day living and those with special health care needs or
-            handicapped children who are identified from the community, brought
-            to the department for necessary oral health care and medical
-            treatment procedures.
-            </p>
-            
-        </div>
+        
 
         <div class="visionCard">
-            <h1>ACTIVITIES</h1>
+            <h2>UG CURRICULUM</h2>
             <ul>
                 <li>
                     THEORY CLASSES :  The
@@ -220,7 +132,49 @@ $CUURENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                 </li>
             </ul>
         </div>
-
+        <div class="missionCard">
+            <h1 class="title">
+                Patients Service
+            </h1>
+            <p class="italic mt-4">
+               The department is well equipped with all the latest infrastructure
+            which helps in the course of diagnosis and treatment planning of a
+            particular patient. The department is kids friendly and kept in par
+            to the specifications given by the dental council of India. We also
+            focuses on patients who are dependent on care takers for their day
+            to day living and those with special health care needs or
+            handicapped children who are identified from the community, brought
+            to the department for necessary oral health care and medical
+            treatment procedures.
+            </p>
+            
+        </div>
+        <div class="facultyContainer marginTop">
+            <div class="facultyToggleBtn">
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <h1>Our Faculty</h1>
+            </div>
+            <div class="facultyGallery">
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Chaitali-Mirajkar/Dr. Chaitali Mirajkar.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Chaitali-Mirajkar/Chaitali-Mirajkar.pdf" type="application/pdf" target="_blank" >
+                        Dr. Chaitali Mirajkar
+                    </a>
+                    <p>Associate Professor, Dept. of Pediatric and Preventive Dentistry</p>
+                </div>
+                
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Dr. Shivani Bhadule.JPG" alt="faculty" width="200" height="200" />
+                    <h2  >
+                        Dr. Shivani Bhadule.JPG
+                    </h2>
+                    <p>Bonded Lecturer, Dept. of Pediatric and Preventive Dentistry</p>
+                </div>
+                
+                
+            </div>
+        </div>
         <div>
             <h1>Gallery</h1>
             <div class="galleryCardContainer">
