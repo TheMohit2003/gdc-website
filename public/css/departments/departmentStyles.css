@@ -35,12 +35,46 @@ ul {
     font-weight: normal;
 }
 
+.facultyContainer{
+    border: 2px solid var(--primary-color);
+}
+
+.facultyContainer .facultyToggleBtn{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 1.5rem;
+    border-bottom: 2px solid var(--primary-color);
+}
+
+.facultyContainer .facultyToggleBtn:hover{
+    background-color: #00000005;
+}
+
+.facultyContainer .facultyToggleBtn > img{
+    height: 2rem;
+    margin-right: 1.5rem;
+}
+
+.facultyContainer .facultyToggleBtn > img:nth-of-type(2){
+    display: none;
+}
+
+.facultyContainer .facultyToggleBtn > h1{
+    text-align: start;
+    margin: 0;
+}
+
 .facultyGallery {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
     justify-content: center;
-    padding: 1.5rem;
+    overflow: clip;
+    max-height: 0;
+    transition: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-out;
 }
 
 .facultyCard {
@@ -61,21 +95,23 @@ ul {
     width: 100%;
 }
 
-.facultyCard a {
+.facultyGallery .facultyCard a {
     font-size: 0.75rem;
     font-weight: bold;
     padding: 1rem 1rem 4px 1rem;
     color: var(--primary-color);
+    text-align: center;
 }
 
 .facultyCard a:hover {
     text-decoration: underline;
 }
 
-.facultyCard p {
+.facultyGallery .facultyCard p {
     font-size: 0.5rem;
     padding: 0 1rem;
     padding-bottom: 1rem;
+    text-align: center;
 }
 
 .visionCard,
@@ -222,11 +258,11 @@ span {
         height: 300px;
     }
 
-    .facultyCard a {
+    .facultyGallery .facultyCard a {
         font-size: 1rem;
     }
 
-    .facultyCard p {
+    .facultyGallery .facultyCard p {
         font-size: 0.875rem;
     }
 

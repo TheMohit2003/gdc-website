@@ -43,10 +43,12 @@ $CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                 We have post graduation in the department since 1995 and around 60 postgraduate students are passed out. We have fellowship in oral implantology and the department is MUHS Ph.D approved center. We have state-of-art facilities like VRF system in pre-clinical laboratory, well equipped with all the latest instruments and machines in ceramic laboratory. We also have CAD-CAM machine for the welfare of postgraduate students and patients. The department is actively involved in the research activities, copyrights and have frequent research publications in various international and national scientific journals.
             </p>
         </div>
-        <div>
-            <h1>
-                Our Faculty
-            </h1>
+        <div class="facultyContainer">
+            <div class="facultyToggleBtn">
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <h1>Our Faculty</h1>
+            </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/Kishor-Mahale/Photo.jpg" alt="faculty" width="200" height="200" />

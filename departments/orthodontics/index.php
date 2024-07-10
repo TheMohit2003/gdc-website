@@ -50,10 +50,12 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             <h2>PG PROGRAMME</h2>
             <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
         </div>
-        <div>
-            <h1>
-                Our Faculty
-            </h1>
+        <div class="facultyContainer">
+            <div class="facultyToggleBtn">
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <h1>Our Faculty</h1>
+            </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Govind-Raghunath/Photo.png" alt="faculty" width="200" height="200" />

@@ -60,10 +60,10 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
         </div>
 
         <div class="facultyContainer">
-            <div>
-                <h1>
-                    Our Faculty
-                </h1>
+            <div class="facultyToggleBtn">
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <h1>Our Faculty</h1>
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
