@@ -18,6 +18,7 @@ ul li::marker {
 
 .list_inside {
     list-style-position: inside;
+    margin-left: 1rem;
 }
 
 .list-heading {

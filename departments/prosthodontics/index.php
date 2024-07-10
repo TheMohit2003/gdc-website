@@ -43,6 +43,71 @@ $CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
                 We have post graduation in the department since 1995 and around 60 postgraduate students are passed out. We have fellowship in oral implantology and the department is MUHS Ph.D approved center. We have state-of-art facilities like VRF system in pre-clinical laboratory, well equipped with all the latest instruments and machines in ceramic laboratory. We also have CAD-CAM machine for the welfare of postgraduate students and patients. The department is actively involved in the research activities, copyrights and have frequent research publications in various international and national scientific journals.
             </p>
         </div>
+
+        <div class="visionCard">
+            <h1 class="title">
+                Vision
+            </h1>
+            <p>
+               Department of Prosthodontics aims at imparting the dental students with the ability to provide excellent treatment, effectively and efficiently with knowledge and skill along with maintaining high ethical standards, empathy, and care while handling any patient needing prosthodontic rehabilitation. 
+            </p>
+            <P>
+                Our all inclusive educational programmes envision to develop and nurture our students to grow into highly talented professionals, ready to take up their responsibility towards the society at large by providing them with a plethora of innovations, concepts based on evidence based dentistry and a clear understanding of the basics of prosthodontics.
+            </P>
+        </div>
+
+        <div class="missionCard">
+            <h1 class="title">
+                Mission
+            </h1>
+            <p>
+               Our mission is to equip our students with sound clinical knowledge and skill to develop individual into dentists who are not only professionally trained, but also high in moral and ethical values, imparting profound integrity character to every endeavour, not only in our institution but in the society at large.  
+            </p>
+            <P>
+                We aim to train specialists in prosthodontics, who are skilled clinicians with a strong research background, with continued advancement of knowledge in prosthodontics through integration of basic and advanced sciences with clinical research by our undergraduate and postgraduate students and by our faculty and staff.
+            </P>
+        </div>
+
+        <div>
+            <h2>UG CURRICULUM</h2>
+            
+            <a class="list_inside" href="<?php echo $CUURENTDIRURL ?>assets/syllabus/UG CURRICULUM.pdf" target="_blank"  type="application/pdf">syllabus</a>
+        </div>
+        <div>
+            <h2>PG CURRICULUM</h2>
+    
+            <a class="list_inside"  href="<?php echo $CUURENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 1.pdf" target="_blank"  type="application/pdf">PG CURRICULUM PART 1</a>
+            <a class="list_inside"  href="<?php echo $CUURENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 2.pdf" target="_blank"  type="application/pdf">PG CURRICULUM PART 2</a>
+        </div>
+
+        <div class="visionCard">
+            <h2>PATIENTS SERVICE</h2>
+            <ol>
+                <li>Removable prosthesis
+                    <ul class="list_inside">
+                        <li>Complete dentures</li>
+                        <li>Partial dentures</li>
+                        <li>Fexilble dentures</li>
+                    </ul>
+                </li>
+                <li>Fixed prosthesis 
+                    <ul class="list_inside">
+                        <li>Crowns and bridges</li>
+                    </ul>
+                </li>
+                <li>Implant Prosthesis</li>
+                <li>Maxillofacial prosthesis 
+                    <ul class="list_inside">
+                        <li>Obturators</li>
+                        <li>Ear prosthesis</li>
+                        <li>Eye prosthesis</li>
+                        <li>Finger prosthesis</li>
+                        <li>Nose  prosthesis</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
                 <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
@@ -51,40 +116,85 @@ $CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Kishor-Mahale/Photo.jpg" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Kishor-Mahale/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Kishor-Mahale/Kishor-Mahale.pdf" type="application/pdf" target="_blank" >
                         Dr. Kishor Madhukar Mahale
                     </a>
                     <p>Professor and Head of Department, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Smita-Khalikar/Photo.jpg" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Smita-Khalikar/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Smita-Khalikar/Smita-Khalikar.pdf" type="application/pdf" target="_blank" >
                         Dr. Smita Arun Khalikar
                     </a>
-                    <p>Associate Profesor, Dept. of Prosthodontics</p>
+                    <p>Profesor, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Vilas-Rajguru/Photo.jpg" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Vilas-Rajguru/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Vilas-Rajguru/Vilas-Rajguru.pdf" type="application/pdf" target="_blank" >
                         Dr. Vilas L. Rajguru
                     </a>
                     <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Sonali-Mahajan/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Sonali-Mahajan/Sonali-Mahajan.pdf" type="application/pdf" target="_blank" >
                         Dr. Sonali Vishal Mahajan
                     </a>
                     <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Ulhas-Tandale/Photo.jpg" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Ulhas-Tandale/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/Ulhas-Tandale/Ulhas-Tandale.pdf" type="application/pdf" target="_blank" >
                         Dr. Ulhas Eknathrao Tandale
                     </a>
                     <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>  
+
+                 <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Aasmita-Kabade/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "#" type="application/pdf" >
+                        Dr. Aasmita Kabade
+                    </a>
+                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                </div> 
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Diksha-Dhage/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "#" type="application/pdf" >
+                        Dr. Diksha Dhage
+                    </a>
+                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                </div> 
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Nikhil-Chawala/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "#" type="application/pdf" >
+                        Dr. Nikhil Chawala
+                    </a>
+                    <p>Dental Surgeon, Dept. of Prosthodontics</p>
+                </div> 
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Priyanka-Pawar/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "#" type="application/pdf" >
+                        Dr. Priyankak Pawar
+                    </a>
+                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                </div> 
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Sanjivani-Mamilwad/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "#" type="application/pdf" >
+                        Dr. Sanjivani Mamilwad
+                    </a>
+                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                </div> 
+
+                
+                <div class="facultyCard">
+                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" />
+                    <a href= "#" type="application/pdf" >
+                        Dr. Sharda Shelke
+                    </a>
+                    <p>Assistant Profesor, Dept. of Prosthodontics</p>
+                </div> 
             </div>
         </div>
     </div>
