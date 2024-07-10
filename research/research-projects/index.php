@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "";
+$CURRENTDIRURL = $ROOTURL . "research/research-projects/";
 
 ?>
 
@@ -23,7 +23,20 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
-    <?php include($ROOT . "includes/_maintenance.php"); ?>
+    <div class="pageBanner">
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <h1>
+            RESEARCH PROJECTS
+        </h1>
+    </div>
+    <div class="contentContainer">
+        <div>
+            <p>
+                Every year a 3 days Research Methodology Workshop (MUHS Recognized) is conducted in the month of January for 1st year MDS Students and staff members to imbibe the knowledge of Research Techniques and encourage them to undertake various projects
+
+            </p>
+        </div>
+    </div>
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 

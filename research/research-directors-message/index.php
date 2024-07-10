@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "";
+$CURRENTDIRURL = $ROOTURL . "research/research-directors-message/";
 
 ?>
 
@@ -18,12 +18,34 @@ $CURRENTDIRURL = $ROOTURL . "";
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentstyles.css"></link>
 </head>
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
-    <?php include($ROOT . "includes/_maintenance.php"); ?>
+    <div class="pageBanner">
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <h1>
+            RESEARCH DIRECTOR'S MESSAGE
+        </h1>
+    </div>
+    <div class="contentContainer">
+        <div>
+            <p>
+                &emsp; The Research Committee GDCH, Chh. Sambhajinagar encourages and guides the staff members, PG/UG students for various research activities, like conducting small scientific studies, surveys and participate in the various state level research competitions held by MUHS and other research institutes.
+            </p>
+        </div>
+
+        <div>
+            <h1>Research Committee :</h1>
+            <h2>Chairman :</h2>
+            <p>Dr. Seema D Pathak</p>
+            <h2>Members :</h2>
+            <p>Dr. Jayanti Humbe</p>
+            <p>Dr. Sonali Mahajan</p>
+        </div>
+    </div>
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 
