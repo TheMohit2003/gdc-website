@@ -156,7 +156,7 @@ ul {
 }
 
 span {
-    font-style: italic;
+    /* font-style: italic; */
 }
 
 .table-container {
@@ -211,7 +211,10 @@ span {
     align-items: center;
 
 }
-
+.bold-solid-li{
+    font-size: 1rem;
+    font-weight: bold;
+}
 .contentContainer .bold-solid {
     font-weight: bold;
     font-style: normal;
