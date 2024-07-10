@@ -96,6 +96,9 @@
                     <a href="<?php echo $ROOTURL ?>student-portal/equal-opportunity-cell"> EQUAL OPPORTUNITY CELL </a>
                 </div>
             </div>
+            <a href="<?php echo $ROOTURL ?>alumni-association">
+                ALUMNI ASSOCIATION
+            </a>
             <a href="<?php echo $ROOTURL ?>recruitment-cell">
                 RECRUITMENT CELL
             </a>

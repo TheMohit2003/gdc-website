@@ -32,6 +32,9 @@
             <a href="<?php echo $ROOTURL ?>public/assets/17-babi-december-2020.pdf" target="_blank">
                 १७ बाबी
             </a>
+            <a href="<?php echo $ROOTURL ?>public/assets/17-babi-december-2020.pdf" target="_blank">
+                RTI
+            </a>
         </div>
         <div>
             <span>Contact Us</span>
