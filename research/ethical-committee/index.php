@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "";
+$CURRENTDIRURL = $ROOTURL . "research/ethical-committee/";
 
 ?>
 
@@ -18,12 +18,31 @@ $CURRENTDIRURL = $ROOTURL . "";
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
     <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/ethical-committee/ethical-committee.css"></link>
 </head>
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
-    <?php include($ROOT . "includes/_maintenance.php"); ?>
+        <div class="pageBanner">
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <h1>
+            ETHICAL COMMITTEE
+        </h1>
+    </div>
+    <div>
+        <div class="main">
+            <div class="ethical-container">
+                
+                <a href="<?php echo $CURRENTDIRURL ?>assets/Ethical committee & Minutes of the meetings last 5 years.pdf" target="_blank" >
+                    1. Ethical Committe and Minutes of the Meetings (Last 5 years)
+                </a>
+                <a href="<?php echo $CURRENTDIRURL ?>assets/Minutes Of meetings.pdf" target="_blank" >
+                    2.  Minutes of meetings
+                </a>
+            </div> 
+        </div>           
+    </div>
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 
