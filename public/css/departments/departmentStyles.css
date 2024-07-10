@@ -35,8 +35,13 @@ ul {
     font-weight: normal;
 }
 
+.marginTop{
+    margin-top: 1rem;
+}
+
 .facultyContainer{
     border: 2px solid var(--primary-color);
+    height: fit-content;
 }
 
 .facultyContainer .facultyToggleBtn{
@@ -93,6 +98,10 @@ ul {
     object-position: center;
     height: 250px;
     width: 100%;
+}
+
+.facultyGallery .facultyCard h2{
+    padding-bottom: 0.55rem;
 }
 
 .facultyGallery .facultyCard a {
