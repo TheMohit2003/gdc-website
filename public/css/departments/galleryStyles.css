@@ -19,6 +19,12 @@
     max-height: 200px;
 }
 
+.galleryMainImageCard > img{
+    width:270px;
+    border-radius: 20px;
+    height: 160px;
+}
+
 .galleryCard > p{
     margin-top: 1rem;
     font-size: 0.75rem;
@@ -36,4 +42,11 @@
     .galleryCard >p{
         font-size: 1rem;
     }
+    .galleryMainImageCard > img{
+        width:970px;
+        border-radius: 20px;
+        height: auto;
+
+    }
+    
 }

@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "";
+$CURRENTDIRURL = $ROOTURL . "research/research-publications/";
 
 ?>
 
@@ -23,7 +23,21 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
-    <?php include($ROOT . "includes/_maintenance.php"); ?>
+    <div class="pageBanner">
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <h1>
+            RESEARCH PUBLICATIONS
+        </h1>
+    </div>
+    <div class="contentContainer">
+        <div>
+            <h1>Copyrights, Patents and Scientific Publications</h1>
+            <p>
+                The college is updated with recent technologies and has an excellent supervision which has awarded the college a total of 30 copyrights, 2 patents and overall 85 publications including National and International index journals in the year of 2023-2024 in various subjects.
+
+            </p>
+        </div>
+    </div>
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 
