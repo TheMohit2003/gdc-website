@@ -39,42 +39,6 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
                 Periodontics is a specialty of dentistry which encompasses prevention, diagnosis and treatment of diseases of the supporting tissues of the teeth. Apart from routine oral hygiene maintenance which form the scope of Periodontics are treatment of Periodontitis, Depigmentation of oral tissues, Laser surgeries, Reattachment procedures, Gingivoplasty, Implant surgeries etc.
             </p>
         </div>
-        <div>
-            <h2>UG PROGRAMME</h2>
-            <p>The department’s undergraduate dental curriculum starts in second year wherein the students are familiarized with the basics of periodontium. After imbibing the correct and strong basics regarding the anatomy and histology which remain the backbone of entire dentistry, the next goal is accomplished in the third year and that is, to develop the student’s knowledge regarding diseases of periodontium. It helps to develop treatment plans that address existing problems as well as disease prevention and health promotion (pathogenesis, intervention and prevention of the disease).</p>
-            <p>
-            These teaching lessons for the students are sufficed study models, pictorial charts and advanced audio-visual aids. Undergraduate students are encouraged to participate in seminars / tutorials periodically on various topics
-            </p>
-        </div>
-        <div>
-            <h2>PG PROGRAMME</h2>
-            <p>The department of Periodontics started enrolling students for postgraduate course from the year 1994 and so far 40 students have been enrolled including 9 current post postgraduate students. The training includes an exhaustive and comprehensive study of Periodontics detailed with clinical correlations and insightful study of the mechanism or pathogenesis of the disease. The students also acquire skills of non-surgical and surgical periodontal therapy. During the course of three years, students attain experience to the clinical situations and various routine and specialized treatment techniques.</p>
-            <p>
-            Interactive seminars and journal clubs are held every week in the seminar room equipped with audio-visual aids. The Post Graduate students are also encouraged to participate in various continuing dental education programs like interactive slide sessions conducted in various dental colleges. The Post Graduates and staff of the department participate in various state & national conferences, conventions and workshops by giving scientific presentations.
-            </p>
-        </div>
-
-        <div>
-            <h1>
-                Our Faculty
-            </h1>
-            <div class="facultyGallery">
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Chandulal-Dhalkari/Photo.jpg" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Chandulal-Dhalkari/Chandulal-Dhalkari.pdf" type="application/pdf" target="_blank" >
-                        Dr. Chandulal Digambarrao Dhalkari
-                    </a>
-                    <p>Professor and Head, Dept. of Periodontology</p>
-                </div>
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Ashok-Bhansali/Photo.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Ashok-Bhansali/Ashok-Bhansali.pdf" type="application/pdf" target="_blank" >
-                        Dr. Ashok Bhansali
-                    </a>
-                    <p>Associate profesor, Dept. of Periodontology</p>
-                </div>
-            </div>
-        </div>
 
         <div class="visionCard">
             <h1 class="title">
@@ -88,6 +52,21 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
                 <li>We foster periodontal care to improve oral hygiene and overall health.</li>
                 <li>We aspire to educate high quality individuals not only to serve as outstanding clinicians and community leaders, but also academic leaders through research by starting PhD in the near future who can advance the field of Periodontology.</li>
             </ul>
+        </div>
+
+        <div>
+            <h2>UG PROGRAMME</h2>
+            <p>The department’s undergraduate dental curriculum starts in second year wherein the students are familiarized with the basics of periodontium. After imbibing the correct and strong basics regarding the anatomy and histology which remain the backbone of entire dentistry, the next goal is accomplished in the third year and that is, to develop the student’s knowledge regarding diseases of periodontium. It helps to develop treatment plans that address existing problems as well as disease prevention and health promotion (pathogenesis, intervention and prevention of the disease).</p>
+            <p>
+            These teaching lessons for the students are sufficed study models, pictorial charts and advanced audio-visual aids. Undergraduate students are encouraged to participate in seminars / tutorials periodically on various topics
+            </p>
+        </div>
+        <div>
+            <h2>PG PROGRAMME</h2>
+            <p>The department of Periodontics started enrolling students for postgraduate course from the year 1994 and so far 40 students have been enrolled including 9 current post postgraduate students. The training includes an exhaustive and comprehensive study of Periodontics detailed with clinical correlations and insightful study of the mechanism or pathogenesis of the disease. The students also acquire skills of non-surgical and surgical periodontal therapy. During the course of three years, students attain experience to the clinical situations and various routine and specialized treatment techniques.</p>
+            <p>
+            Interactive seminars and journal clubs are held every week in the seminar room equipped with audio-visual aids. The Post Graduate students are also encouraged to participate in various continuing dental education programs like interactive slide sessions conducted in various dental colleges. The Post Graduates and staff of the department participate in various state & national conferences, conventions and workshops by giving scientific presentations.
+            </p>
         </div>
 
         <div class="visionCard">
@@ -207,6 +186,59 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
             </tbody>
           </table>
         </div>
+        <!--  -->
+        <div class="facultyContainer">
+            <div class="facultyToggleBtn">
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <h1>Our Faculty</h1>
+            </div>
+            <div class="facultyGallery">
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Chandulal-Dhalkari/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Chandulal-Dhalkari/Chandulal-Dhalkari.pdf" type="application/pdf" target="_blank" >
+                        Dr. Chandulal Digambarrao Dhalkari
+                    </a>
+                    <p>Professor and Head, Dept. of Periodontology</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Ashok-Bhansali/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Ashok-Bhansali/Ashok-Bhansali.pdf" type="application/pdf" target="_blank" >
+                        Dr. Ashok Bhansali
+                    </a>
+                    <p>Associate profesor, Dept. of Periodontology</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Apurva-Dashputra/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "#">
+                        Dr. Apurva Dashputra
+                    </a>
+                    <p>Assistant profesor, Dept. of Periodontology</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Soma-Sindhuja/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "#">
+                        Dr. Soma Sindhuja K
+                    </a>
+                    <p>Assistant profesor, Dept. of Periodontology</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Swathy-Krishna/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "#">
+                        Dr. Swathy Krishna J
+                    </a>
+                    <p>Assistant profesor, Dept. of Periodontology</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Varsha-Deokar/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "#">
+                        Dr. Varsha Deokar
+                    </a>
+                    <p>Dental Surgeon, Dept. of Periodontology</p>
+                </div>
+            </div>
+        </div>
+        <!--  -->
 
         <div>
             <h1>Gallery</h1>
