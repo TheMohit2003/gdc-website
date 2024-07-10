@@ -42,30 +42,6 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
                 The Department of Orthodontics is rendering undergraduate programme since 1982 and postgraduate programme since 2018. Ever since its inception, the department has grown phenomenally and progressed in terms of student education, infrastructure as well as patient care. A robust OPD ensures ample clinical experience, case-based learning and scope for research. The department offers undergraduate and post graduate coures. Head of the department Dr. Rajan Mahindra is recognised phD guide and soon phD courses to be started under his guidance.
             </p>
         </div>
-        <div>
-            <h2>UG PROGRAMME</h2>
-            <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
-        </div>
-        <div>
-            <h2>PG PROGRAMME</h2>
-            <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
-        </div>
-        <div class="facultyContainer">
-            <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
-                <h1>Our Faculty</h1>
-            </div>
-            <div class="facultyGallery">
-                <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Govind-Raghunath/Photo.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Dr-Govind-Raghunath/Dr-Govind-Raghunath.pdf" type="application/pdf" target="_blank" >
-                        Dr. Govind Raghunath Suryawanshi
-                    </a>
-                    <p>ASSOCIATE PROFESSOR (ACADEMIC)</p>
-                </div>
-            </div>
-        </div>
 
         <div class="visionCard">
             <h1 class="title">
@@ -95,6 +71,17 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
                     To emphasize evidence-based learning and encourage molecular level research to advance the speciapty of orthodontics
                 </li>
             </ul>
+        </div>
+
+        <div>
+            <h2>UG CURRICULUM</h2>
+            <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
+            <a href="<?php echo $CUURENTDIRURL ?>assets/syllabus/UG program syllabus.pdf" target="_blank"  type="application/pdf">syllabus</a>
+        </div>
+        <div>
+            <h2>PG CURRICULUM</h2>
+            <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
+            <a href="<?php echo $CUURENTDIRURL ?>assets/syllabus/PG program.pdf" target="_blank"  type="application/pdf">syllabus</a>
         </div>
 
         <div class="visionCard">
@@ -130,6 +117,74 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
                 <li>Cleft lip and palate care</li>
                 <li>TMJ disorder rehabilitation</li>
             </ul>
+        </div>
+
+        <div class="facultyContainer">
+            <div class="facultyToggleBtn">
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <h1>Our Faculty</h1>
+            </div>
+            <div class="facultyGallery">
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Rajan-Mahindra/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Dr-Rajan-Mahindra/Dr-Rajan-Mahindra.pdf" type="application/pdf" target="_blank" >
+                        Dr. Rajan K. Mahindra
+                    </a>
+                    <p>Professor and Head, Dept. of Orthodontics</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Govind-Raghunath/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Dr-Govind-Raghunath/Dr-Govind-Raghunath.pdf" type="application/pdf" target="_blank" >
+                        Dr. Govind Raghunath Suryawanshi
+                    </a>
+                    <p>ASSOCIATE PROFESSOR</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Rakesh-Mohade/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Dr-Rakesh-Mohade/Dr-Rakesh-Mohade.pdf" type="application/pdf" target="_blank" >
+                        Dr. Rakesh Rai Mohode
+                    </a>
+                    <p>ASSOCIATE PROFESSOR</p>
+                </div>
+
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Aboli-Muley/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Dr-Aboli-Muley/Dr-Aboli-Muley.pdf" type="application/pdf" target="_blank" >
+                        Dr. Aboli Muley
+                    </a>
+                    <p>ASSISTANT PROFESSOR</p>
+                </div>
+
+            </div>
+        </div>
+
+        <div>
+            <h1>Gallery</h1>
+            <div class="galleryCardContainer">
+                <div class="galleryCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-1.jpeg" alt="Department Image" />
+                    <!-- <p>Undergraduate Clinic</p> -->
+                </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-2.jpeg" alt="Department Image" /> 
+                </div>
+                <div class="galleryCard">
+                    <img
+                        src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-3.jpeg" alt="Department Image" />
+                </div>
+                <div class="galleryCard">
+                    <img
+                        src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-4.jpeg" alt="Department Image" />
+                </div>
+            </div>
+            <a class="readMoreBtn"
+                href="<?php echo $CUURENTDIRURL ?>gallery">
+                View More
+            </a>
         </div>
 
     </div>
