@@ -1,258 +1,233 @@
-.contentContainer {
-  margin: auto;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  padding: 1rem;
+ul li::marker {
+    color: var(--primary-color);
 }
 
-ul li::marker{
-  color: var(--primary-color);
+.contentContainer>div>h2 {
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-top: 1.3rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.05rem;
 }
 
-.contentContainer > div > h1 {
-  font-size: 1rem;
-  font-weight: bold;
-  color: var(--primary-color);
-  text-align: center;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  text-transform: uppercase;
-}
-
-.contentContainer > div > h2 {
-  font-weight: 700;
-  color: var(--primary-color);
-  margin-top: 1.3rem;
-  margin-bottom: 0.5rem;
-  font-size: 1.05rem;
-}
-
-.contentContainer > div > p {
-  text-align: justify;
-  font-size: 0.75rem;
-  margin-bottom: 1rem;
-}
-
-.contentContainer li{
+.contentContainer li {
     margin: 0.5rem 0;
     list-style-position: inside;
+    font-size: 0.75rem;
 }
 
 .list_inside {
-  list-style-position: inside;
+    list-style-position: inside;
 }
 
 .list-heading {
-  margin: 0.5rem 0;
+    margin: 0.5rem 0;
 }
 
 .list-heading {
-  font-weight: 700;
-  color: var(--primary-color);
+    font-weight: 700;
+    color: var(--primary-color);
 }
 
-.list-heading > ol,
+.list-heading>ol,
 ul {
-  color: black;
-  font-weight: normal;
+    color: black;
+    font-weight: normal;
 }
 
 .facultyGallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  justify-content: center;
-  padding: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    padding: 1.5rem;
 }
 
 .facultyCard {
-  overflow: hidden;
-  width: 200px;
-  box-shadow: 1px 1px 2px grey;
-  display: flex;
-  border-radius: 1rem;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
+    overflow: hidden;
+    width: 200px;
+    box-shadow: 1px 1px 2px grey;
+    display: flex;
+    border-radius: 1rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
-.facultyCard > img {
-  object-fit: cover;
-  object-position: center;
-  height: 250px;
-  width: 100%;
+.facultyCard>img {
+    object-fit: cover;
+    object-position: center;
+    height: 250px;
+    width: 100%;
 }
 
-.facultyCard > a {
-  font-size: 0.75rem;
-  font-weight: bold;
-  padding: 1rem 1rem 4px 1rem;
-  color: var(--primary-color);
+.facultyCard>a {
+    font-size: 0.75rem;
+    font-weight: bold;
+    padding: 1rem 1rem 4px 1rem;
+    color: var(--primary-color);
 }
 
-.facultyCard > a:hover {
-  text-decoration: underline;
+.facultyCard>a:hover {
+    text-decoration: underline;
 }
 
-.facultyCard > p {
-  font-size: 0.5rem;
-  padding: 0 1rem;
-  padding-bottom: 1rem;
+.facultyCard>p {
+    font-size: 0.5rem;
+    padding: 0 1rem;
+    padding-bottom: 1rem;
 }
 
 .visionCard,
 .missionCard {
-  margin: 2rem 0;
-  padding: 0 1rem;
-  box-shadow: 1px 1px 2px grey;
-  border-radius: 1rem;
-  border: 2px solid var(--primary-color);
+    margin: 2rem 0;
+    padding: 0 1rem;
+    box-shadow: 1px 1px 2px grey;
+    border-radius: 1rem;
+    border: 2px solid var(--primary-color);
 }
 
 .visionCard .title,
 .missionCard .title {
-  margin-top: 1rem;
+    margin-top: 1rem;
 }
 
 /* .visionCard > ul > li {
   margin: 0.5rem 0;
 } */
 
-.readMoreBtn {
-  text-decoration: none;
-  background-color: var(--primary-color);
-  color: white;
-  font-weight: bold;
-  padding: 0.5rem 1rem;
-  display: block;
-  text-align: center;
-  border-top-right-radius: 0.5rem;
-  border-bottom-left-radius: 0.5rem;
-  width: fit-content;
-  margin: auto;
+.contentContainer .readMoreBtn {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    display: block;
+    text-align: center;
+    border-top-right-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    width: fit-content;
+    margin: auto;
 }
 
 span {
-  font-style: italic;
+    font-style: italic;
 }
 
 .table-container {
-  /* table border-collapse border border-zinc-200 table-fixed text-center */
-  display: table;
-  border-collapse: collapse;
-  border-width: 1px;
-  border-color: rgb(228 228 231);
-  table-layout: fixed;
-  text-align: center;
+    /* table border-collapse border border-zinc-200 table-fixed text-center */
+    display: table;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-color: rgb(228 228 231);
+    table-layout: fixed;
+    text-align: center;
 }
 
 .table-row {
-  /* text-lg text-zinc-800 */
-  font-size: 1.125rem;
-  line-height: 1.75rem;
-  color: #27272a;
+    /* text-lg text-zinc-800 */
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    color: #27272a;
 }
 
 .table-head {
-  /* border border-zinc-200 font-semibold w-[20%] max-sm:text-xs */
-  border: 1px solid #e4e4e7;
-  font-weight: 600;
-  padding: 1rem;
-  width: 20%;
+    /* border border-zinc-200 font-semibold w-[20%] max-sm:text-xs */
+    border: 1px solid #e4e4e7;
+    font-weight: 600;
+    padding: 1rem;
+    width: 20%;
 }
 
 .table-data {
-  border: 1px solid #e4e4e7;
-  padding: 1rem;
+    border: 1px solid #e4e4e7;
+    padding: 1rem;
 }
 
 .table-name {
-  display: none;
+    display: none;
 }
 
-.table-container{
+.table-container {
     /* width: 100%; */
-    overflow:scroll;
-    
-  overflow-x: auto; /* Enables horizontal scrolling */
-    -webkit-overflow-scrolling: touch; /* Improves scrolling on iOS devices */
+    overflow: scroll;
+
+    overflow-x: auto;
+    /* Enables horizontal scrolling */
+    -webkit-overflow-scrolling: touch;
+    /* Improves scrolling on iOS devices */
 }
 
 .table-parent {
-  /* shadow py-4 px-8 rounded-sm max-sm:px-2 */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+    /* shadow py-4 px-8 rounded-sm max-sm:px-2 */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
 }
 
 .contentContainer .bold-solid {
-  font-weight: bold;
-  font-style: normal;
-  font-size: 0.75rem;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 0.75rem;
 }
 
 .bold-medium {
-  font-weight: 600;
+    font-weight: 600;
 }
 
-.text-center{
+.text-center {
     text-align: center;
 }
 
 
 @media not all and (min-width: 640px) {
-  .table-name {
-    display: block;
-  }
-}
-@media not all and (min-width: 640px) {
-  .table-container {
-    padding: 4rem;
-  }
+    .table-name {
+        display: block;
+    }
 }
 
 @media not all and (min-width: 640px) {
-  .table-head {
-    font-size: 0.75rem /* 12px */;
-    line-height: 1rem /* 16px */;
-  }
+    .table-container {
+        padding: 4rem;
+    }
+}
+
+@media not all and (min-width: 640px) {
+    .table-head {
+        font-size: 0.75rem
+            /* 12px */
+        ;
+        line-height: 1rem
+            /* 16px */
+        ;
+    }
 }
 
 @media only screen and (min-width: 768px) {
-  .contentContainer {
-    max-width: 70%;
-    margin: 2rem auto;
-  }
+    .contentContainer li {
+        font-size: 1rem;
+    }
 
-  .contentContainer > div > h1 {
-    font-size: 1.5rem;
-  }
+    .facultyCard {
+        width: 250px;
+    }
 
-  .contentContainer > div > p {
-    font-size: 1rem;
-  }
+    .facultyCard>img {
+        height: 300px;
+    }
 
-  .facultyCard {
-    width: 250px;
-  }
+    .facultyCard>a {
+        font-size: 1rem;
+    }
 
-  .facultyCard > img {
-    height: 300px;
-  }
+    .facultyCard>p {
+        font-size: 0.875rem;
+    }
 
-  .facultyCard > a {
-    font-size: 1rem;
-  }
-
-  .facultyCard > p {
-    font-size: 0.875rem;
-  }
-
-  .visionCard,
-  .missionCard {
-    padding: 1rem 2rem;
-  }
+    .visionCard,
+    .missionCard {
+        padding: 1rem 2rem;
+    }
 }
