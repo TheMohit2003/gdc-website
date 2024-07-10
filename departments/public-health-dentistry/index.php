@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
+$CURRENTDIRURL = $ROOTURL . "departments/public-health-dentistry/";
 
 ?>
 
@@ -36,7 +36,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
         <div>
             <h1>Introduction</h1>
             <p>
-                Public Health Dentistry deals with Preventing & Controlling Dental Diseases and promoting dental health through community efforts promoting oral Health and preventing oral diseases in the community through educating motivating and intervening the diseases at the earliest stages specially more emphasis on preventing and controlling tobacco habits and prevention of oral cancer .
+                Public Health Dentistry deals with Preventing & Controlling Dental Diseases and promoting dental health through community efforts promoting oral Health and preventing oral diseases in the community through educating, motivating and intervening the diseases at the earliest stages specially more emphasis on preventing and controlling tobacco habits and prevention of oral cancer .
             </p>
         </div>
         
@@ -69,31 +69,8 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
                 </li>
             </ul>
         </div>
-        <div class="visionCard">
-            <h1>
-                ACTIVITIES
-            </h1>
-        
-            <h2>ACADEMIC</h2>
-            <ul class="list_inside">
-                <li>Case history taking of the patients.</li>
-                <li>Training of the students to carry out the various oral health Indices. </li>
-                <li>Training of the Interns to carryout various health education awareness program in the survey.</li>
-                <li>Training to conduct preventive health program </li>
-                <li>Preparation of oral health information material for oral health awareness.</li>
-                <li>Conducting outreach programs. </li>
-            </ul>
-        
-            <h2>CLINICAL</h2>
-            <ul class="list_inside">
-                <li>Preventive treatment like pit & Fissure sealant Application topical Fluoride application etc and comprehensive treatment procedure.</li>
-                <li>Oral health checkup and treatment </li>
-                <li>Conducting camps at central Jail, school, old age institution orphanages, villages etc. </li>
-                <li>Oral Health education in camps at various places.</li>
-                <li>Tobacco cessation services. </li>
-            </ul>
-       
-            <h2>UG  CURICULUM </h2>
+        <div class="visionCard">       
+            <h2>UG  CURRICULUM </h2>
             <p>
                 <span class="bold-solid">Lectures : </span>30 Hours. (Spread over Two Terms)
             </p>
@@ -108,7 +85,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
                     <span class="bold-solid">Lecture Topics :</span>
                 </div>
                 <ol class="list_inside">
-                    <li>History of Dentistry. </li>
+                    <li><span class="bold-medium">History of Dentistry. </span> </li>
                     <li><span class="bold-medium">Biostatistics : </span>Introduction and General Principles of Biostatistics, Statistical procedures.</li>
                     <li><span class="bold-medium">Psychology : </span>Introduction, Psychological development from birth to adolescence, Management of Child in the dental office, parent counseling in respect of dental health and Hygiene of the child</li>
                     <li><span class="bold-medium">Public Health : </span>Concept and philosophy of Health administration in India National health programmes, General Epidemiology, Health Education, Environmental Health (Norms for portability, purification) Fluorine-contents of water and implications of its deviation. Water treatment to ensure its proper concentration.</li>
@@ -127,8 +104,31 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
             </ol>
         </div>
 
-<div class="table-container">
-    <h1>PATIENT SERVICES </h1>
+<div class="table-container ">
+    <div class="visionCard">
+        <h1>PATIENT SERVICES </h1>
+        <li class="italic mt-4">
+                    Preventive treatment like pit & Fissure sealant Application topical Fluoride application etc and comprehensive treatment procedure.
+        </li> 
+        <li class="italic mt-4">
+                    Oral health checkup and treatment camps
+
+        </li> 
+        <li class="italic mt-4">
+                    Conducting camps at central Jail, school, old age institution orphanages, villages etc. 
+
+        </li> 
+        <li class="italic mt-4">
+                    Oral Health education in camps at various places.
+
+        </li> 
+        <li class="italic mt-4">
+                    Tobacco cessation services. 
+
+
+        </li> 
+    </div>
+    
     <h2 class="text-center" style="margin-bottom: 1.5rem;">Total Number Of Patients Covered In The Outreach Programs FROM JAN  2014 TO AUGUST 2023</h2>
     
     <div class="table-parent">
@@ -236,6 +236,68 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
         </table>
     </div>
 </div>
+<div class="facultyContainer marginTop">
+            <div class="facultyToggleBtn">
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <h1>Our Faculty</h1>
+            </div>
+            <div class="facultyGallery">
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Jagdishchandra Vathar.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Jagdishchandra-Vathar/Jagdishchandra-Vathar.pdf" type="application/pdf" target="_blank" >
+                        Dr. Jagdishchandra-Vathar
+                    </a>
+                    <p>Professor and Head, Dept. of Public Health Dentistry</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Harshal bafna.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>" type="application/pdf" target="_blank" >
+                        Dr. Harshal bafna
+                    </a>
+                    <p>Associate Professor, Dept. of Public Health Dentistry</p>
+                </div>
+                
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Pradnya Jadhav.JPG" alt="faculty" width="200" height="200" />
+                    <h2  >
+                        Dr. Pradnya Jadhav 
+                    </h2>
+                    <p>Assistant Professor, Dept. of Public Health Dentistry</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Dr. Vibhakar Mote.JPG" alt="faculty" width="200" height="200" />
+                    <h2  >
+                        Dr. Vibhakar Mote
+                    </h2>
+                    <p>Dental Surgeon, Dept. of Public Health Dentistry</p>
+                </div>
+                
+                
+            </div>
+        </div>
+        <div>
+            <h1>Gallery</h1>
+            <div class="galleryCardContainer">
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8893.JPG" alt="Department Image" />
+                </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_5671.JPG" alt="Department Image" /> 
+                </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8903.JPG" alt="Department Image" /> 
+                </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/IMG_8917.JPG" alt="Department Image" /> 
+                </div>
+                
+            </div>
+            <a class="readMoreBtn"
+                href="<?php echo $CURRENTDIRURL ?>gallery">
+                View More
+            </a>
+        </div>
 
     </div>
     
