@@ -59,10 +59,12 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
 </p>
         </div>
 
-        <div>
-            <h1>
-                Our Faculty
-            </h1>
+        <div class="facultyContainer">
+            <div>
+                <h1>
+                    Our Faculty
+                </h1>
+            </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/drPradnyaVilasBansode/profilePic.png" alt="faculty" width="200" height="200" />

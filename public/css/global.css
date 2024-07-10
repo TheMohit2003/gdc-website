@@ -34,7 +34,7 @@ a{
     position: relative;
 }
 
-.pageBanner>img {
+.pageBanner img {
     position: absolute;
     top: 0;
     left: 0;
@@ -45,7 +45,7 @@ a{
     object-fit: cover;
 }
 
-.pageBanner >h1{
+.pageBanner h1{
     text-align: center;
     font-weight: bolder;
     text-transform: uppercase;
@@ -63,7 +63,7 @@ a{
     padding: 1rem;
 }
 
-.contentContainer > div > h1{
+.contentContainer div h1{
     font-size: 1rem;
     font-weight: bold;
     color: var(--primary-color);
@@ -73,20 +73,20 @@ a{
     text-transform: uppercase;
 }
 
-.contentContainer > div > h2{
+.contentContainer div h2{
     font-weight: 600;
     color: var(--primary-color);
     margin-top: 1.3rem;
     margin-bottom: 0.5rem;
 }
 
-.contentContainer > div > li{
+.contentContainer div li{
     text-align: justify;
     font-size: 0.75rem;
     margin-bottom: 1rem;
 }
 
-.contentContainer > div > a{
+.contentContainer div a{
     text-align: justify;
     font-size: 0.75rem;
     margin-bottom: 1rem;
@@ -94,7 +94,7 @@ a{
     text-decoration: underline;
 }
 
-.contentContainer > div > p{
+.contentContainer div p{
     text-align: justify;
     font-size: 0.75rem;
     margin-bottom: 1rem;
@@ -111,7 +111,7 @@ a{
         padding: 4rem;
     }
 
-    .pageBanner >h1{
+    .pageBanner h1{
         padding: 8rem 0;
         font-size: 2rem;
     }
@@ -121,19 +121,19 @@ a{
         margin: 2rem auto;
     }
 
-    .contentContainer > div > h1{
+    .contentContainer div h1{
         font-size: 1.5rem;
     }
 
-    .contentContainer > div > li{
+    .contentContainer div li{
         font-size: 1rem;
     }
 
-    .contentContainer > div > a{
+    .contentContainer div a{
         font-size: 1rem;
     }
 
-    .contentContainer > div > p{
+    .contentContainer div p{
         font-size: 1rem;
     }
 }
