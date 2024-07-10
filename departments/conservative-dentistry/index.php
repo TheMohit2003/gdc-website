@@ -48,6 +48,16 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
                 The department is equipped with advanced hard and soft tissue laser equipment. This technology is used for different operative procedures like cavity preparations, bleaching, root canal treatments and surgeries, etc. Special concern is given to special treatment modalities like micro- endodontics, regenerative endodontics, fracture segment re-attachment procedures and treatment of traumatic injuries to teeth. Such advanced procedures best serve the needs of the patients & enhance the knowledge & skills of under & post graduate students.
             </p>
         </div>
+        <div>
+            <h2>UG PROGRAMME</h2>
+            <p>UG curriculum starts from Second B.D.S. with lectures and practicals of Pre-clinical Conservative Dentistry and Dental Materials. Clinical postings and Lectures are organized for Third and Final B.D.S. including their internal assessment examinations. Whereas in Internship they are groomed with Orientation Programme and Live Demonstrations of Root canal Treatment and other specialized treatments like Composite resin restorations. Faculties are continuously monitoring and supervising their daily works. At the end of the course our students are confident enough to diagnose and manage a variety of clinical situations
+</p>
+        </div>
+        <div>
+            <h2>PG PROGRAMME</h2>
+            <p>During PG curriculum, initially in first year they are trained with OPD, discussions are held on diagnosis and treatment planning and they complete their pre-clinical work according to MUHS guidelines which is assessed. Hence onward first-, second- and third-year students perform the routine clinical treatments with special emphasis on cases like fracture fragment reattachment, regenerative procedures, teeth with aberrant morphology, bleaching procedures, surgical endodontics using all the latest equipments in the department. Seminars, journal clubs and case discussions by PG students are held twice a week in the afternoon session. They attend national conferences and PG conventions and workshops where they present the paper and win prizes at national level. Each PG student in tenure of 3 years publishes at least 6 papers in international and national journals. Their work is regularly monitored by HOD and other PG guides in the department. At the end post graduate students are capable of managing all kinds of clinical situations with their skills par excellence.
+</p>
+        </div>
 
         <div>
             <h1>
@@ -62,20 +72,55 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
                     <p>Professor (MPSC) and Head, Dept. of Conservative Dentistry</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/drMadhuriMilindAmbhure/profilePic.png" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drMadhuriMilindAmbhure/cv.pdf" type="application/pdf" target="_blank" >
-                        Dr. Madhuri Milind Ambhure
-                    </a>
-                    <p>Associate Professor (MPSC), Dept. of Conservative Dentistry</p>
-                </div>
-                <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/drSeemaDhananjayPathak/profilePic.png" alt="faculty" width="200" height="200" />
                     <a href= "<?php echo $CUURENTDIRURL ?>assets/drSeemaDhananjayPathak/cv.pdf" type="application/pdf" target="_blank" >
                         Dr. Seema Dhananjay Pathak
                     </a>
                     <p>Associate Professor, Dept. of Conservative Dentistry, ...</p>
                 </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $CUURENTDIRURL ?>assets/drMadhuriMilindAmbhure/profilePic.png" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drMadhuriMilindAmbhure/cv.pdf" type="application/pdf" target="_blank" >
+                        Dr. Madhuri Milind Ambhure
+                    </a>
+                    <p>Associate Professor, Dept. of Conservative Dentistry</p>
+                </div>
+                <div class="facultyCard">
+                    <img src="<?php echo $ROOTURL ?>public/assets/doctor.png" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CUURENTDIRURL ?>assets/drShirish-Khedgikar/Shirish-Khedgikar.pdf" type="application/pdf" target="_blank" >
+                        Dr. Madhuri Milind Ambhure
+                    </a>
+                    <p>Associate Professor, Dept. of Conservative Dentistry</p>
+                </div>
+                
             </div>
+        </div>
+        <div class="visionCard">
+            <h1 class="title">
+                 Patient Services
+            </h1>
+            <ul>
+                <li class="italic ">
+                 Silver Amalgam and Tooth colored restorations.
+                </li>
+                <li class="italic">
+                 Cosmetic Dentistry- Composite, Ceramics, Laminates, Crowns, Bleaching, Tooth jewelry, etc.
+                </li>
+                <li>
+                Smile designing & Aesthetic corrections.
+                </li>
+                <li>Complex direct & indirect restorations.</li>
+                <li>Hard and Soft tissue management using Lasers.</li>
+                <li>Management of dental hypersensitivity.</li>
+                <li>Non-surgical endodontic treatment & retreatment.</li>
+                <li>Regenerative endodontic therapy.</li>
+                <li>Surgical endodontics and Endodontic microsurgeries.</li>
+                <li>Management of dental trauma – avulsion, intentional replantation, intentional transplantation.</li>
+                <li>Restoration of badly mutilated teeth/post & core.</li>
+                <li>Digital endodontics and Advanced conservative & endodontic treatment modalities.</li>
+            </ul>
+            
+            
         </div>
 
         <div class="visionCard">
@@ -135,7 +180,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
             </ul>
         </div>
 
-        <div>
+        <div class="visionCard">
             <h1>Scope and Importance of the Subject</h1>
             <p>
                 Conservative Dentistry and Endodontics is a branch of dentistry that deals with treatment of carious, malformed or fractured teeth as well as discoloured or aesthetic correction and endodontics deals with treatment of pulpal and periapical diseases and Dental Pain Management. It is popularly known as the ‘Bread and Butter of Dentistry.’

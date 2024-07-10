@@ -122,7 +122,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-pathology/";
         </div>
         
 
-        <div>
+        <div class="visionCard">
             <h1>Patient services</h1>
             <p>
                 In the department Investigative Procedures such as Complete hemogram

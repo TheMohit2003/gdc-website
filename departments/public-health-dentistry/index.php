@@ -69,12 +69,11 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
                 </li>
             </ul>
         </div>
-        <div>
+        <div class="visionCard">
             <h1>
                 ACTIVITIES
             </h1>
-        </div>
-        <div>
+        
             <h2>ACADEMIC</h2>
             <ul class="list_inside">
                 <li>Case history taking of the patients.</li>
@@ -84,8 +83,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
                 <li>Preparation of oral health information material for oral health awareness.</li>
                 <li>Conducting outreach programs. </li>
             </ul>
-        </div>
-        <div>
+        
             <h2>CLINICAL</h2>
             <ul class="list_inside">
                 <li>Preventive treatment like pit & Fissure sealant Application topical Fluoride application etc and comprehensive treatment procedure.</li>
@@ -94,8 +92,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
                 <li>Oral Health education in camps at various places.</li>
                 <li>Tobacco cessation services. </li>
             </ul>
-        </div>
-        <div>
+       
             <h2>UG  CURICULUM </h2>
             <p>
                 <span class="bold-solid">Lectures : </span>30 Hours. (Spread over Two Terms)
@@ -122,8 +119,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/periodontics/";
                     <li>Recent advances and other oral diseases. </li>
                 </ol>
             </p>
-        </div>
-        <div>
+        
             <h2>FIELD PROGRAMME : </h2>
             <ol class="list_inside">
                 <li>In rural areas to conduct survey of Dental diseases. Provide Dental Health Education, emergency treatment.</li>
