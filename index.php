@@ -25,6 +25,24 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
+    <div class="marquee">
+        <div class="marqueeContent">
+            <a>
+                Admissions
+            </a>
+            <a>
+                NIRF Ranking
+            </a>
+        </div>
+        <div class="marqueeContent">
+            <a>
+                Admissions
+            </a>
+            <a>
+                NIRF Ranking
+            </a>
+        </div>
+    </div>
     <div class="carouselContainer">
         <div class="carousel">
             <div class="imageContainer">
