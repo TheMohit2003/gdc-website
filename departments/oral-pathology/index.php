@@ -221,14 +221,15 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-pathology/";
             <h1>Gallery</h1>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Department.png" alt="Department Image" />
-                    <p>
-                    </p>
-                </div>
-                <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Department of Oral Pathology and Microbiology.jpg" alt="Department Image" />
                     <p>
                         Department of Oral Pathology and Microbiology
+                    </p>
+                </div>
+                <div class="galleryCard">
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/Winner of VR Mehta Award at 30th IAOMP Conference, Belagavi 2023.jpg" alt="Department Image" />
+                    <p>
+                        Winner of VR Mehta Award at 30th IAOMP Conference, Belagavi 2023
                     </p>
                 </div>
                 <div class="galleryCard">
