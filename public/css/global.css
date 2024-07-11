@@ -93,6 +93,7 @@ a{
     color: var(--primary-color);
     text-decoration: underline;
 }
+}
 
 .contentContainer div p{
     text-align: justify;

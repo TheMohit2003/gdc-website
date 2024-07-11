@@ -31,6 +31,9 @@ $CURRENTDIRURL = $ROOTURL . "student-portal/academic/";
     </div>
     <div class="contentContainer">
         <div>
+            <h1>
+                Academic calendar
+            </h1>
             <a href="<?php echo $CURRENTDIRURL ?>assets/Academic Calendar new.pdf" target="_blank">
                 Academic Calendar new (pdf download)
             </a>
