@@ -30,6 +30,7 @@ $CUURENTDIRURL = $ROOTURL . "about-us/about-college/";
         <h1>
             ABOUT COLLEGE
         </h1>
+        
     </div>
     <div>
         <div class="main">
@@ -38,25 +39,25 @@ $CUURENTDIRURL = $ROOTURL . "about-us/about-college/";
                 <p class="college-desc">
                     Govt Dental College and Hospital, Chatrapati Sambhajinagar is one of the reputed Govt. Dental Colleges in Maharashtra. The college is popularly known as GDCH Chatrapati Sambhajinagar and was founded in the year 1982-83. The college was established to fortify the weakest section of the Nation, i.e. Rural population. It was started to serve students with the best dental care and Oral and Maxillofacial Surgery. The college is affiliated with the Maharashtra University of Health Sciences, Nashik, and is approved by the Dental Council of India, Govt. of India.
                 </p>
-            </div>
-
-            <div class="about-us-container">
-            
-                <h3 class="dept-title">Departments</h3>
+                
+                <hr>
+                <h2 class="dept-title">Departments</h2>
 
                 <div class="departmentsList">
                     <ul>
                         <li>Oral Medicine and Radiology</li>
                         <li>Oral and Maxillofacial Surgery</li>
+                        <li>Oral Pathology</li>
                         <li>Periodontics</li>
-                        <li>Public Health Dentistry</li>
-                        <li>Pediatric and Preventive Dentistry</li>
+                        <li>Conservative Dentistry </li>
+                        
                     </ul>
                     <ul>
-                        <li>Conservative Dentistry and Endodontics</li>
+                        <li>Public Health Dentistry</li>
+                        <li>Pediatric and Preventive Dentistry</li>
                         <li>Orthodontics</li>
                         <li>Prosthodontics</li>
-                        <li>Oral Pathology</li>
+                       
                     </ul>
                 </div>
                 

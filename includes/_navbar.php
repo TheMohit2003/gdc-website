@@ -66,13 +66,13 @@
                 <div class="subNavItemContainer">
                     <a href="<?php echo $ROOTURL ?>departments/oral-medicine-and-radiology"> DEPARTMENT OF ORAL MEDICINE & RADIOLOGY </a>
                     <a href="<?php echo $ROOTURL ?>departments/oral-and-maxillofacial-surgery"> DEPARTMENT OF ORAL AND MAXILLOFACIAL SURGERY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/oral-pathology"> DEPARTMENT OF ORAL PATHOLOGY </a>
                     <a href="<?php echo $ROOTURL ?>departments/periodontics"> DEPARTMENT OF PERIODONTICS </a>
+                    <a href="<?php echo $ROOTURL ?>departments/conservative-dentistry"> DEPARTMENT OF CONSERVATIVE DENTISTRY </a>
                     <a href="<?php echo $ROOTURL ?>departments/public-health-dentistry"> DEPARTMENT OF PUBLIC HEALTH DENTISTRY </a>
                     <a href="<?php echo $ROOTURL ?>departments/pediatric-and-preventive-dentistry"> DEPARTMENT OF PEDIATRIC AND PREVENTIVE DENTISTRY </a>
-                    <a href="<?php echo $ROOTURL ?>departments/conservative-dentistry"> DEPARTMENT OF CONSERVATIVE DENTISTRY </a>
                     <a href="<?php echo $ROOTURL ?>departments/orthodontics"> DEPARTMENT OF ORTHODONTICS </a>
                     <a href="<?php echo $ROOTURL ?>departments/prosthodontics"> DEPARTMENT OF PROSTHODONTICS </a>
-                    <a href="<?php echo $ROOTURL ?>departments/oral-pathology"> DEPARTMENT OF ORAL PATHOLOGY </a>
                     <a href="<?php echo $ROOTURL ?>departments/administrative-office"> ADMINISTRATIVE OFFICE </a>
                 </div>
             </div>
@@ -96,7 +96,7 @@
                     <a href="<?php echo $ROOTURL ?>student-portal/equal-opportunity-cell"> EQUAL OPPORTUNITY CELL </a>
                 </div>
             </div>
-            <a href="<?php echo $ROOTURL ?>admission">
+            <a href="<?php echo $ROOTURL ?>admission/NEET-PG-2024..MDS Admission Process Instruction Manual for the academic year 2024-25.pdf" type="application/pdf" target="_blank">
                 ADMISSION
             </a>
             <a href="<?php echo $ROOTURL ?>alumni-association">

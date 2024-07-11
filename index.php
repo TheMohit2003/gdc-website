@@ -38,7 +38,7 @@ $CURRENTDIRURL = $ROOTURL . "";
             </a>
         </div>
         <div class="marqueeContent">
-            <a>
+            <a href="<?php echo $ROOTURL ?>admission/NEET-PG-2024..MDS Admission Process Instruction Manual for the academic year 2024-25.pdf" type="application/pdf" target="_blank">
                 Admissions
             </a>
             <a href="<?php echo $CURRENTDIRURL ?>public/assets/nirf-ranking.pdf" target="_blank">
