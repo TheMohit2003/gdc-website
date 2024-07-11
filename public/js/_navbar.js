@@ -24,11 +24,11 @@ function handleHamburgerClick() {
 
 let dropdownNavItems = document.querySelectorAll(".dropdownContainer");
 for (let x of dropdownNavItems) {
-    let windowWidth = window.innerWidth;
     let dropdownBtn = x.querySelector(":first-child")
     let dropdown = x.querySelector(".subNavItemContainer");
     dropdown.style["display"] = "none";
     dropdownBtn.addEventListener("touchstart", () => {
+        let windowWidth = window.innerWidth;
         if(dropdown.style["display"] == "flex"){
             dropdown.style["display"] = "none";
         }
@@ -38,35 +38,40 @@ for (let x of dropdownNavItems) {
             dropdown.style["top"] = "100%";
             dropdown.style["left"] = "0";
             dropdown.style["height"] = "fit-content";
-            if(window.matchMedia("(min-width: 768px)").matches){
+            // if(window.matchMedia("(min-width: 768px)").matches){
                 dropdown.style["position"] = "absolute";
-            }
+            // }
         }
 
         if(window.innerWidth > windowWidth){
             dropdown.style["right"] = "0";
             dropdown.style["left"] = "auto";
         }
+        else{
+            dropdown.style["right"] = "auto";
+            dropdown.style["left"] = "0";
+        }
     })
     x.addEventListener("mouseenter", () => {
-        // if(window.matchMedia("(min-width: 768px)").matches){
+            let windowWidth = window.innerWidth;
             dropdown.style["width"] = "100%";
             dropdown.style["display"] = "flex";
             dropdown.style["top"] = "100%";
             dropdown.style["left"] = "0";
             dropdown.style["height"] = "fit-content";
             dropdown.style["position"] = "absolute";
-        // }
 
         if(window.innerWidth > windowWidth){
             dropdown.style["right"] = "0";
             dropdown.style["left"] = "auto";
         }
+        else{
+            dropdown.style["right"] = "auto";
+            dropdown.style["left"] = "0";
+        }
     });
     x.addEventListener("mouseleave", () => {
-        // if(window.matchMedia("(min-width: 768px)").matches){
             dropdown.style["display"] = "none";
-        // }
     });
 }
 

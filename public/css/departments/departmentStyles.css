@@ -43,6 +43,7 @@ ul {
 .facultyContainer{
     border: 2px solid var(--primary-color);
     height: fit-content;
+    margin: 2rem 0;
 }
 
 .facultyContainer .facultyToggleBtn{

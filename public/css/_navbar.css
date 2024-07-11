@@ -135,23 +135,21 @@
     background-color: var(--primary-color);
     display: none;
     flex-direction: column;
-    text-wrap: nowrap;
     padding: 0;
     gap: 0;
 }
 
 .subNavItemContainer>a {
+    max-width: 100vw;
+    overflow: hidden;
     display: block;
     text-decoration: none;
     color: white;
     cursor: pointer;
-    width: 320px;
     transition: all;
     padding: 0.5rem 1.5rem;
     transition-duration: 200ms;
-    overflow: hidden;
     white-space: nowrap;
-    text-overflow: ellipsis;
     border: 1px solid var(--light-primary-color);
 }
 
