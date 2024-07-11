@@ -48,7 +48,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
                 The department is equipped with advanced hard and soft tissue laser equipment. This technology is used for different operative procedures like cavity preparations, bleaching, root canal treatments and surgeries, etc. Special concern is given to special treatment modalities like micro- endodontics, regenerative endodontics, fracture segment re-attachment procedures and treatment of traumatic injuries to teeth. Such advanced procedures best serve the needs of the patients & enhance the knowledge & skills of under & post graduate students.
             </p>
         </div>
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Vision
             </h1>
@@ -73,7 +73,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
                 </li>
             </ul>
         </div>
-        <div class="missionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Mission
             </h1>
@@ -104,17 +104,17 @@ $CUURENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
                 </li>
             </ul>
         </div>
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h2>UG PROGRAMME</h2>
             <p>UG curriculum starts from Second B.D.S. with lectures and practicals of Pre-clinical Conservative Dentistry and Dental Materials. Clinical postings and Lectures are organized for Third and Final B.D.S. including their internal assessment examinations. Whereas in Internship they are groomed with Orientation Programme and Live Demonstrations of Root canal Treatment and other specialized treatments like Composite resin restorations. Faculties are continuously monitoring and supervising their daily works. At the end of the course our students are confident enough to diagnose and manage a variety of clinical situations
             </p>
         </div>
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h2>PG PROGRAMME</h2>
             <p>During PG curriculum, initially in first year they are trained with OPD, discussions are held on diagnosis and treatment planning and they complete their pre-clinical work according to MUHS guidelines which is assessed. Hence onward first-, second- and third-year students perform the routine clinical treatments with special emphasis on cases like fracture fragment reattachment, regenerative procedures, teeth with aberrant morphology, bleaching procedures, surgical endodontics using all the latest equipments in the department. Seminars, journal clubs and case discussions by PG students are held twice a week in the afternoon session. They attend national conferences and PG conventions and workshops where they present the paper and win prizes at national level. Each PG student in tenure of 3 years publishes at least 6 papers in international and national journals. Their work is regularly monitored by HOD and other PG guides in the department. At the end post graduate students are capable of managing all kinds of clinical situations with their skills par excellence.
             </p>
         </div>
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                  Patient Services
             </h1>

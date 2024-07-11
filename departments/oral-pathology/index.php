@@ -56,7 +56,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-pathology/";
             </p>
 
         </div>
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Mission & Vision
             </h1>
@@ -81,7 +81,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-pathology/";
             </ul>
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1>UG CURRICULUM</h1>
             <p>The undergraduate students in this department include the First Year and the Third Year
                 students for the subjects Dental Anatomy & Dental Histology, and Oral Pathology & Oral
@@ -106,7 +106,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-pathology/";
             </a>
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1>PG CURRICULUM</h1>
             <h2>
                 GOALS
@@ -149,7 +149,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-pathology/";
             </a>
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1>Patient services</h1>
             <h2>1. Clinical Services</h2>
             <h2>2. Haematology Services</h2>

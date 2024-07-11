@@ -43,7 +43,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             </p>
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Vision
             </h1>
@@ -53,7 +53,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             
         </div>
 
-        <div class=" missionCard">
+        <div class=" largeContentCard">
             <h1 class="title">
                  Mission
             </h1>
@@ -84,7 +84,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             <a href="<?php echo $CUURENTDIRURL ?>assets/syllabus/PG program.pdf" target="_blank"  type="application/pdf">syllabus</a>
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1>FUTURE ASPECTS</h1>
             <ul>
                 <li>Preclinical virtual skill development using case based and simulation based learning.</li>
@@ -103,7 +103,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
             </ul>
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1>CORE COMPETENCIES</h1>
             <ul>
                 <li>Preventive and Interceptive treatment</li>
