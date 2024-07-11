@@ -57,7 +57,7 @@ a{
 
 .contentContainer {
     margin: auto;
-    min-height: 100vh;
+    min-height: 25vh;
     display: flex;
     flex-direction: column;
     padding: 1rem;
