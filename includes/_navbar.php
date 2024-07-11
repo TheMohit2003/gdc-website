@@ -68,8 +68,8 @@
                     <a href="<?php echo $ROOTURL ?>departments/oral-and-maxillofacial-surgery"> DEPARTMENT OF ORAL AND MAXILLOFACIAL SURGERY </a>
                     <a href="<?php echo $ROOTURL ?>departments/oral-and-maxillofacial-pathology-and-oral-microbiology"> DEPARTMENT OF ORAL AND MAXILLOFACIAL PATHOLOGY & ORAL MICROBIOLOGY </a>
                     <a href="<?php echo $ROOTURL ?>departments/periodontology"> DEPARTMENT OF PERIODONTOLOGY </a>
-                    <a href="<?php echo $ROOTURL ?>departments/conservative-dentistry-and-endodontics"> DEPARTMENT OF CONSERVATIVE DENTISTRY AND ENDODONTICS </a>
                     <a href="<?php echo $ROOTURL ?>departments/community-dentistry"> DEPARTMENT OF COMMUNITY DENTISTRY </a>
+                    <a href="<?php echo $ROOTURL ?>departments/conservative-dentistry-and-endodontics"> DEPARTMENT OF CONSERVATIVE DENTISTRY AND ENDODONTICS </a>
                     <a href="<?php echo $ROOTURL ?>departments/pediatric-and-preventive-dentistry"> DEPARTMENT OF PEDIATRIC AND PREVENTIVE DENTISTRY </a>
                     <a href="<?php echo $ROOTURL ?>departments/orthodontics-and-dentofacial-orthopedics"> DEPARTMENT OF ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS </a>
                     <a href="<?php echo $ROOTURL ?>departments/prosthodontics"> DEPARTMENT OF PROSTHODONTICS </a>
