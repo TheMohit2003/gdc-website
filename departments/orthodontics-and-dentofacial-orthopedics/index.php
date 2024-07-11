@@ -1,13 +1,14 @@
-<?php 
+<?php
 
-$ROOT = "../../"; 
+$ROOT = "../../";
 include($ROOT . "includes/_init.php");
-$CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
+$CUURENTDIRURL = $ROOTURL . "departments/orthodontics-and-dentofacial-orthopedics/";
 
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,20 +17,26 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
 
     <script src="<?php echo $ROOTURL ?>public/js/_navbar.js" defer></script>
     <script src="<?php echo $ROOTURL ?>public/js/departments/departmentMain.js" defer></script>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css"></link>
-    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css"></link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/global.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_navbar.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/_footer.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/galleryStyles.css">
+    </link>
+    <link rel="stylesheet" href="<?php echo $ROOTURL ?>public/css/departments/departmentStyles.css">
+    </link>
 </head>
+
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
     <div class="pageBanner">
-        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" />
         <h1>
-            DEPARTMENT OF ORTHODONTICS
+            DEPARTMENT OF ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS
         </h1>
     </div>
     <div class="contentContainer">
@@ -48,14 +55,14 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
                 Vision
             </h1>
             <p class="italic mt-4">
-               To become centre of excellence at par with global standards, through patient-centred education, state of the art orthodontic technology and advanced research.
+                To become centre of excellence at par with global standards, through patient-centred education, state of the art orthodontic technology and advanced research.
             </p>
-            
+
         </div>
 
         <div class=" largeContentCard">
             <h1 class="title">
-                 Mission
+                Mission
             </h1>
             <ul>
                 <li class="italic mt-4">
@@ -76,12 +83,12 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
         <div>
             <h2>UG CURRICULUM</h2>
             <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
-            <a href="<?php echo $CUURENTDIRURL ?>assets/syllabus/UG program syllabus.pdf" target="_blank"  type="application/pdf">syllabus</a>
+            <a href="<?php echo $CUURENTDIRURL ?>assets/syllabus/UG program syllabus.pdf" target="_blank" type="application/pdf">syllabus</a>
         </div>
         <div>
             <h2>PG CURRICULUM</h2>
             <p>It imparts sufficient skill and knowledge to treat simple cases using removable appliances and coordinate with specialists for complex cases. Undergraduate students learn to identify and diagnose various malocclusions and plan the treatment of cases pertaining to preventive, interceptive and corrective orthodontics. Highly experienced teaching faculties provide didactic teaching, practical hands-on experience, face to face learning, case-based clinical sessions and impel students to undertake research.</p>
-            <a href="<?php echo $CUURENTDIRURL ?>assets/syllabus/PG program.pdf" target="_blank"  type="application/pdf">syllabus</a>
+            <a href="<?php echo $CUURENTDIRURL ?>assets/syllabus/PG program.pdf" target="_blank" type="application/pdf">syllabus</a>
         </div>
 
         <div class="largeContentCard">
@@ -121,15 +128,15 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
 
         <div class="facultyContainer">
             <div class="facultyToggleBtn">
-                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg"/>
-                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg"/>
+                <img class="plusIcon" src="<?php echo $ROOTURL ?>public/assets/plus-icon.svg" />
+                <img class="minusIcon" src="<?php echo $ROOTURL ?>public/assets/minus-icon.svg" />
                 <h1>Our Faculty</h1>
             </div>
             <div class="facultyGallery">
 
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Rajan-Mahindra/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Dr-Rajan-Mahindra/Dr-Rajan-Mahindra.pdf" type="application/pdf" target="_blank" >
+                    <a href="<?php echo $CUURENTDIRURL ?>assets/Dr-Rajan-Mahindra/Dr-Rajan-Mahindra.pdf" type="application/pdf" target="_blank">
                         Dr. Rajan K. Mahindra
                     </a>
                     <p>Professor and Head, Dept. of Orthodontics</p>
@@ -137,7 +144,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
 
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Govind-Raghunath/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Dr-Govind-Raghunath/Dr-Govind-Raghunath.pdf" type="application/pdf" target="_blank" >
+                    <a href="<?php echo $CUURENTDIRURL ?>assets/Dr-Govind-Raghunath/Dr-Govind-Raghunath.pdf" type="application/pdf" target="_blank">
                         Dr. Govind Raghunath Suryawanshi
                     </a>
                     <p>ASSOCIATE PROFESSOR</p>
@@ -145,7 +152,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
 
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Rakesh-Mohade/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Dr-Rakesh-Mohade/Dr-Rakesh-Mohade.pdf" type="application/pdf" target="_blank" >
+                    <a href="<?php echo $CUURENTDIRURL ?>assets/Dr-Rakesh-Mohade/Dr-Rakesh-Mohade.pdf" type="application/pdf" target="_blank">
                         Dr. Rakesh Rai Mohode
                     </a>
                     <p>ASSOCIATE PROFESSOR</p>
@@ -153,7 +160,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
 
                 <div class="facultyCard">
                     <img src="<?php echo $CUURENTDIRURL ?>assets/Dr-Aboli-Muley/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Dr-Aboli-Muley/Dr-Aboli-Muley.pdf" type="application/pdf" target="_blank" >
+                    <a href="<?php echo $CUURENTDIRURL ?>assets/Dr-Aboli-Muley/Dr-Aboli-Muley.pdf" type="application/pdf" target="_blank">
                         Dr. Aboli Muley
                     </a>
                     <p>ASSISTANT PROFESSOR</p>
@@ -170,27 +177,25 @@ $CUURENTDIRURL = $ROOTURL . "departments/orthodontics/";
                     <!-- <p>Undergraduate Clinic</p> -->
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-2.jpeg" alt="Department Image" /> 
+                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-2.jpeg" alt="Department Image" />
                 </div>
                 <div class="galleryCard">
-                    <img
-                        src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-3.jpeg" alt="Department Image" />
+                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-3.jpeg" alt="Department Image" />
                 </div>
                 <div class="galleryCard">
-                    <img
-                        src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-4.jpeg" alt="Department Image" />
+                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/image-4.jpeg" alt="Department Image" />
                 </div>
             </div>
-            <a class="readMoreBtn"
-                href="<?php echo $CUURENTDIRURL ?>gallery">
+            <a class="readMoreBtn" href="<?php echo $CUURENTDIRURL ?>gallery">
                 View More
             </a>
         </div>
 
     </div>
-    
-    
+
+
     <?php include($ROOT . "includes/_footer.php"); ?>
 
 </body>
+
 </html>
