@@ -232,6 +232,8 @@ span {
 }
 
 
+
+
 @media not all and (min-width: 640px) {
     .table-name {
         display: block;

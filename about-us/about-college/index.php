@@ -47,15 +47,16 @@ $CUURENTDIRURL = $ROOTURL . "about-us/about-college/";
                     <ul>
                         <li>Oral Medicine and Radiology</li>
                         <li>Oral and Maxillofacial Surgery</li>
-                        <li>Oral Pathology</li>
-                        <li>Periodontics</li>
-                        <li>Conservative Dentistry </li>
+                        <li>Oral and Maxillofacial Pathology & Oral Microbiology</li>
+                        <li>Periodontology</li>
+                        <li>Community Dentistry </li>
+                        
                         
                     </ul>
                     <ul>
-                        <li>Public Health Dentistry</li>
+                        <li>Conservative Dentistry and Endodontics</li>
                         <li>Pediatric and Preventive Dentistry</li>
-                        <li>Orthodontics</li>
+                        <li>Orthodontics and Dentofacial Orthopedics</li>
                         <li>Prosthodontics</li>
                        
                     </ul>
