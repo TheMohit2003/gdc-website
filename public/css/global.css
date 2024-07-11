@@ -93,12 +93,18 @@ a{
     color: var(--primary-color);
     text-decoration: underline;
 }
-}
+
 
 .contentContainer div p{
     text-align: justify;
     font-size: 0.75rem;
     margin-bottom: 1rem;
+}
+.contentContainer div h3{
+    text-align: justify;
+    font-size: 0.75rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
 }
 
 @media only screen and (min-width: 768px){
@@ -136,5 +142,9 @@ a{
 
     .contentContainer div p{
         font-size: 1rem;
+    }
+    .contentContainer div h3{
+        font-size: 1.2rem;
+        font-weight: 400;
     }
 }
