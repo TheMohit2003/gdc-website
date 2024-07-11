@@ -24,7 +24,31 @@ $CURRENTDIRURL = $ROOTURL . "";
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
-    
+
+    <div class="marquee">
+        <div class="marqueeContent">
+            <a>
+                Admissions
+            </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/nirf-ranking.pdf" target="_blank">
+                NIRF Ranking
+            </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/indiaTodayRanking.jpeg" target="_blank">
+                India Today Ranking
+            </a>
+        </div>
+        <div class="marqueeContent">
+            <a href="<?php echo $ROOTURL ?>admission/NEET-PG-2024..MDS Admission Process Instruction Manual for the academic year 2024-25.pdf" type="application/pdf" target="_blank">
+                Admissions
+            </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/nirf-ranking.pdf" target="_blank">
+                NIRF Ranking
+            </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/indiaTodayRanking.jpeg" target="_blank">
+                India Today Ranking
+            </a>
+        </div>
+    </div>
     <div class="carouselContainer">
         <div class="carousel">
             <div class="imageContainer">

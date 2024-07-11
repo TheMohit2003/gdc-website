@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "";
+$CURRENTDIRURL = $ROOTURL . "student-portal/academic/";
 
 ?>
 
@@ -23,7 +23,22 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
-    <?php include($ROOT . "includes/_maintenance.php"); ?>
+    <div class="pageBanner">
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <h1>
+            ACADEMIC
+        </h1>
+    </div>
+    <div class="contentContainer">
+        <div>
+            <h1>
+                Academic calendar
+            </h1>
+            <a href="<?php echo $CURRENTDIRURL ?>assets/Academic Calendar new.pdf" target="_blank">
+                Academic Calendar new (pdf download)
+            </a>
+        </div>
+    </div>
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 

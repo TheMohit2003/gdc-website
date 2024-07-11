@@ -40,7 +40,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/public-health-dentistry/";
             </p>
         </div>
         
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Vision
             </h1>
@@ -59,7 +59,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/public-health-dentistry/";
                 </li> 
              </ul>  
         </div>
-        <div class="missionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Mission
             </h1>
@@ -69,7 +69,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/public-health-dentistry/";
                 </li>
             </ul>
         </div>
-        <div class="visionCard">       
+        <div class="largeContentCard">       
             <h2>UG  CURRICULUM </h2>
             <p>
                 <span class="bold-solid">Lectures : </span>30 Hours. (Spread over Two Terms)
@@ -105,7 +105,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/public-health-dentistry/";
         </div>
 
 <div class="table-container ">
-    <div class="visionCard">
+    <div class="largeContentCard">
         <h1>PATIENT SERVICES </h1>
         <li class="italic mt-4">
                     Preventive treatment like pit & Fissure sealant Application topical Fluoride application etc and comprehensive treatment procedure.

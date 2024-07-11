@@ -57,7 +57,7 @@ a{
 
 .contentContainer {
     margin: auto;
-    min-height: 100vh;
+    min-height: 25vh;
     display: flex;
     flex-direction: column;
     padding: 1rem;
@@ -89,9 +89,10 @@ a{
 .contentContainer div a{
     text-align: justify;
     font-size: 0.75rem;
-    margin-bottom: 1rem;
+    margin: 1rem 0;
     color: var(--primary-color);
     text-decoration: underline;
+}
 }
 
 .contentContainer div p{

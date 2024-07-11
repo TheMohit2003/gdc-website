@@ -1,3 +1,42 @@
+.marquee{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    background-color: #FFFA9C99;
+}
+
+.marqueeContent{
+    display: flex;
+    min-width: 100%;
+    flex-shrink: 0;
+    animation: scroll infinite linear 20s;
+}
+
+.marquee:hover .marqueeContent{
+    animation-play-state: paused;
+}
+
+.marqueeContent > a{
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+    width: fit-content;
+}
+
+.marqueeContent > a:hover{
+    text-decoration: underline;
+}
+
+@keyframes scroll {
+   0%{
+    transform: translateX(0%);
+   } 
+   100%{
+    transform: translateX(-100%);
+   }
+}
+
 .carouselContainer {
     position: relative;
     overflow: hidden;

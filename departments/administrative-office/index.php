@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "";
+$CURRENTDIRURL = $ROOTURL . "departments/administrative-office/";
 
 ?>
 
@@ -23,7 +23,22 @@ $CURRENTDIRURL = $ROOTURL . "";
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
 
-    <?php include($ROOT . "includes/_maintenance.php"); ?>
+    <div class="pageBanner">
+        <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
+        <h1>
+            administrative office
+        </h1>
+    </div>
+    <div class="contentContainer">
+        <div>
+            <h1>
+                Administration
+            </h1>
+            <a href="<?php echo $CURRENTDIRURL ?>assets/administrative office.pdf" target="_blank">
+                Administration (pdf download)
+            </a>
+        </div>
+    </div>
 
     <?php include($ROOT . "includes/_footer.php"); ?>
 

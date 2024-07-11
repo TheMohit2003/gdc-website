@@ -84,7 +84,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             </p>
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Vision
             </h1>
@@ -99,7 +99,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             </li>
         </div>
 
-        <div class="missionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Mission
             </h1>
@@ -109,7 +109,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             </li>
         </div>
 
-        <div>
+        <div class="largeContentCard">
             <h1>
                 UG CURRICULUM
             </h1>
@@ -127,7 +127,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             </p>
         </div>
 
-        <div>
+        <div class="largeContentCard">
             <h1>
                 PG CURRICULUM
             </h1>
@@ -269,12 +269,11 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                         MAJOR OPERATION THEATRE
                     </p>
                 </div>
-                <a class="readMoreBtn"
-                    href="<?php echo $CUURENTDIRURL ?>gallery">
-                    View More
-                </a>
             </div>
-            
+            <a class="readMoreBtn"
+                href="<?php echo $CUURENTDIRURL ?>gallery">
+                View More
+            </a>
         </div>
     </div >
 

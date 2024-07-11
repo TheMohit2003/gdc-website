@@ -72,7 +72,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
            
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                  Mission & Vision
             </h1>
@@ -93,7 +93,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
         </div>
         
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h2>UG CURRICULUM</h2>
             <ul>
                 <li>
@@ -132,7 +132,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                 </li>
             </ul>
         </div>
-        <div class="missionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Patients Service
             </h1>

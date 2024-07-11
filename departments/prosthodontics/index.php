@@ -44,7 +44,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
             </p>
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Vision
             </h1>
@@ -56,7 +56,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
             </P>
         </div>
 
-        <div class="missionCard">
+        <div class="largeContentCard">
             <h1 class="title">
                 Mission
             </h1>
@@ -80,7 +80,7 @@ $CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
             <a class="list_inside"  href="<?php echo $CUURENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 2.pdf" target="_blank"  type="application/pdf">PG CURRICULUM PART 2</a>
         </div>
 
-        <div class="visionCard">
+        <div class="largeContentCard">
             <h2>PATIENTS SERVICE</h2>
             <ol>
                 <li>Removable prosthesis

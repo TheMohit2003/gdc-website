@@ -38,9 +38,7 @@ for (let x of dropdownNavItems) {
             dropdown.style["top"] = "100%";
             dropdown.style["left"] = "0";
             dropdown.style["height"] = "fit-content";
-            // if(window.matchMedia("(min-width: 768px)").matches){
-                dropdown.style["position"] = "absolute";
-            // }
+            dropdown.style["position"] = "absolute";
         }
 
         if(window.innerWidth > windowWidth){
