@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry/";
+$CURRENTDIRURL = $ROOTURL . "departments/conservative-dentistry-and-endodontics/";
 
 ?>
 
