@@ -196,7 +196,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-medicine-and-radiology/gallery/";
                 <div class="galleryCard">
                     <img src="<?php echo $CURRENTDIRURL ?>assets/National oral medicine and radiology day 20242.png" alt="Department Image" />
                     <p>
-                        National oral medicine and radiology day 2024
                     </p>
                 </div>
                 <div class="galleryCard">
