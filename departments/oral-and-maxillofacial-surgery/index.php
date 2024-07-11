@@ -269,12 +269,11 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
                         MAJOR OPERATION THEATRE
                     </p>
                 </div>
-                <a class="readMoreBtn"
-                    href="<?php echo $CUURENTDIRURL ?>gallery">
-                    View More
-                </a>
             </div>
-            
+            <a class="readMoreBtn"
+                href="<?php echo $CUURENTDIRURL ?>gallery">
+                View More
+            </a>
         </div>
     </div >
 

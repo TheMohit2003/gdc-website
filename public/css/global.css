@@ -89,7 +89,7 @@ a{
 .contentContainer div a{
     text-align: justify;
     font-size: 0.75rem;
-    margin-bottom: 1rem;
+    margin: 1rem 0;
     color: var(--primary-color);
     text-decoration: underline;
 }

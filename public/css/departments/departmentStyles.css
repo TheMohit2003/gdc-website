@@ -154,7 +154,7 @@ ul {
     border-top-right-radius: 0.5rem;
     border-bottom-left-radius: 0.5rem;
     width: fit-content;
-    margin: auto;
+    margin: 1rem auto;
 }
 
 span {

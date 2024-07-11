@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     align-items: stretch;
-    justify-content: space-evenly;
+    justify-content: center;
     gap: 1rem;
 }
 
@@ -37,7 +37,7 @@
 @media only screen and (min-width: 768px) {
     .galleryCard > img{
         height: 300px;
-        width: 100%;
+        max-width: 100%;
     }
 
     .galleryCard >p{
