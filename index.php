@@ -33,6 +33,9 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a>
                 NIRF Ranking
             </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/indiaTodayRanking.jpeg" target="_blank">
+                India Today Ranking
+            </a>
         </div>
         <div class="marqueeContent">
             <a>
@@ -40,6 +43,9 @@ $CURRENTDIRURL = $ROOTURL . "";
             </a>
             <a>
                 NIRF Ranking
+            </a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/indiaTodayRanking.jpeg" target="_blank">
+                India Today Ranking
             </a>
         </div>
     </div>
