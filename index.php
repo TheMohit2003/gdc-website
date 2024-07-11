@@ -24,7 +24,7 @@ $CURRENTDIRURL = $ROOTURL . "";
 <body>
 
     <?php include($ROOT . "includes/_navbar.php"); ?>
-
+    
     <div class="carouselContainer">
         <div class="carousel">
             <div class="imageContainer">

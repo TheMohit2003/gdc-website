@@ -28,7 +28,7 @@ $CURRENTDIRURL = $ROOTURL . "about-us/college-certification/";
     <div class="pageBanner">
         <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
         <h1>
-            INFRASTRUCTURE
+            COLLEGE CERTIFICATIONS
         </h1>
     </div>
     <div>
