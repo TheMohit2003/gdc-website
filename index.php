@@ -30,7 +30,7 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a>
                 Admissions
             </a>
-            <a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/nirf-ranking.pdf" target="_blank">
                 NIRF Ranking
             </a>
             <a href="<?php echo $CURRENTDIRURL ?>public/assets/indiaTodayRanking.jpeg" target="_blank">
@@ -41,7 +41,7 @@ $CURRENTDIRURL = $ROOTURL . "";
             <a>
                 Admissions
             </a>
-            <a>
+            <a href="<?php echo $CURRENTDIRURL ?>public/assets/nirf-ranking.pdf" target="_blank">
                 NIRF Ranking
             </a>
             <a href="<?php echo $CURRENTDIRURL ?>public/assets/indiaTodayRanking.jpeg" target="_blank">
