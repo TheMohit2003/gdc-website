@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
+$CURRENTDIRURL = $ROOTURL . "departments/prosthodontics/";
 
 ?>
 
@@ -71,13 +71,13 @@ $CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
         <div>
             <h2>UG CURRICULUM</h2>
             
-            <a class="list_inside" href="<?php echo $CUURENTDIRURL ?>assets/syllabus/UG CURRICULUM.pdf" target="_blank"  type="application/pdf">syllabus</a>
+            <a class="list_inside" href="<?php echo $CURRENTDIRURL ?>assets/syllabus/UG CURRICULUM.pdf" target="_blank"  type="application/pdf">syllabus</a>
         </div>
         <div>
             <h2>PG CURRICULUM</h2>
     
-            <a class="list_inside"  href="<?php echo $CUURENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 1.pdf" target="_blank"  type="application/pdf">PG CURRICULUM PART 1</a>
-            <a class="list_inside"  href="<?php echo $CUURENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 2.pdf" target="_blank"  type="application/pdf">PG CURRICULUM PART 2</a>
+            <a class="list_inside"  href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 1.pdf" target="_blank"  type="application/pdf">PG CURRICULUM PART 1</a>
+            <a class="list_inside"  href="<?php echo $CURRENTDIRURL ?>assets/syllabus/PG CURRICULUM PART 2.pdf" target="_blank"  type="application/pdf">PG CURRICULUM PART 2</a>
         </div>
 
         <div class="largeContentCard">
@@ -116,71 +116,71 @@ $CUURENTDIRURL = $ROOTURL . "departments/prosthodontics/";
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Kishor-Mahale/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Kishor-Mahale/Kishor-Mahale.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kishor-Mahale/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Kishor-Mahale/Kishor-Mahale.pdf" type="application/pdf" target="_blank" >
                         Dr. Kishor Madhukar Mahale
                     </a>
                     <p>Professor and Head of Department, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Smita-Khalikar/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Smita-Khalikar/Smita-Khalikar.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Smita-Khalikar/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Smita-Khalikar/Smita-Khalikar.pdf" type="application/pdf" target="_blank" >
                         Dr. Smita Arun Khalikar
                     </a>
                     <p>Profesor, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Vilas-Rajguru/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Vilas-Rajguru/Vilas-Rajguru.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Vilas-Rajguru/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Vilas-Rajguru/Vilas-Rajguru.pdf" type="application/pdf" target="_blank" >
                         Dr. Vilas L. Rajguru
                     </a>
                     <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Sonali-Mahajan/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Sonali-Mahajan/Sonali-Mahajan.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sonali-Mahajan/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Sonali-Mahajan/Sonali-Mahajan.pdf" type="application/pdf" target="_blank" >
                         Dr. Sonali Vishal Mahajan
                     </a>
                     <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Ulhas-Tandale/Photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Ulhas-Tandale/Ulhas-Tandale.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ulhas-Tandale/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Ulhas-Tandale/Ulhas-Tandale.pdf" type="application/pdf" target="_blank" >
                         Dr. Ulhas Eknathrao Tandale
                     </a>
                     <p>Associate Profesor, Dept. of Prosthodontics</p>
                 </div>  
 
                  <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Aasmita-Kabade/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Aasmita-Kabade/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "#" type="application/pdf" >
                         Dr. Aasmita Kabade
                     </a>
                     <p>Assistant Profesor, Dept. of Prosthodontics</p>
                 </div> 
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Diksha-Dhage/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Diksha-Dhage/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "#" type="application/pdf" >
                         Dr. Diksha Dhage
                     </a>
                     <p>Assistant Profesor, Dept. of Prosthodontics</p>
                 </div> 
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Nikhil-Chawala/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Nikhil-Chawala/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "#" type="application/pdf" >
                         Dr. Nikhil Chawala
                     </a>
                     <p>Dental Surgeon, Dept. of Prosthodontics</p>
                 </div> 
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Priyanka-Pawar/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Priyanka-Pawar/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "#" type="application/pdf" >
                         Dr. Priyankak Pawar
                     </a>
                     <p>Assistant Profesor, Dept. of Prosthodontics</p>
                 </div> 
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Sanjivani-Mamilwad/Photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Sanjivani-Mamilwad/Photo.JPG" alt="faculty" width="200" height="200" />
                     <a href= "#" type="application/pdf" >
                         Dr. Sanjivani Mamilwad
                     </a>
