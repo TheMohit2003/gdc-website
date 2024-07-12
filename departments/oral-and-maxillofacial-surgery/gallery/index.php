@@ -27,7 +27,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/gallery/
     <div class="pageBanner">
         <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
         <h1>
-            DEPARTMENT OF CONSERVATIVE DENTISTRY AND ENDODONTICS Gallery
+            DEPARTMENT OF ORAL AND MAXILLOFACIAL SURGERY GALLERY
         </h1>
     </div>
     <div class="contentContainer">

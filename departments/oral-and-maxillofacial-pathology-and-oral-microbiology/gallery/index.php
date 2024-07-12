@@ -33,7 +33,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
     <div class="pageBanner">
         <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg" />
         <h1>
-            DEPARTMENT OF ORAL PATHOLOGY
+            DEPARTMENT OF ORAL AND MAXILLOFACIAL PATHOLOGY & ORAL MICROBIOLOGY GALLERY
         </h1>
     </div>
     <div class="contentContainer">
