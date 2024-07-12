@@ -196,10 +196,10 @@ $CURRENTDIRURL = $ROOTURL . "departments/pediatric-and-preventive-dentistry/";
                 </div>
                 
             </div>
-            <!-- <a class="readMoreBtn"
+            <a class="readMoreBtn"
                 href="<?php echo $CURRENTDIRURL ?>gallery">
                 View More
-            </a> -->
+            </a>
         </div>
     </div >
 
