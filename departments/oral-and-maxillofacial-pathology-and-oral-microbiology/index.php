@@ -101,7 +101,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
             <p>2. The student should understand the histological basis of various dental treatment procedures and
                 physiologic ageing process in the dental tissues.</p>
             <p>3. The students must know the basic knowledge of various research methodologies.</p>
-            <a href="<?php echo $CUURENTDIRURL ?>assets/ug-curriculum.pdf" target="_blank">
+            <a href="<?php echo $CURRENTDIRURL ?>assets/ug-curriculum.pdf" target="_blank">
                 UG CURRICULUM (pdf download)
             </a>
         </div>
@@ -144,7 +144,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
             <li>
                 He/she is expected to present scientific data pertaining to the field, in conferences both as poster and verbal presentations and totake part in group discussions. Period of training : Three years duration
             </li>
-            <a href="<?php echo $CUURENTDIRURL ?>assets/pg-curriculum.pdf" target="_blank">
+            <a href="<?php echo $CURRENTDIRURL ?>assets/pg-curriculum.pdf" target="_blank">
                 PG CURRICULUM (pdf download)
             </a>
         </div>
@@ -156,7 +156,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-pathology-and-or
             <h2>3. Cytology</h2>
             <h2>5. Histopathology Services</h2>
             <h2>6. Forensic Odontology</h2>
-            <a href="<?php echo $CUURENTDIRURL ?>assets/patient-services.pdf" target="_blank">
+            <a href="<?php echo $CURRENTDIRURL ?>assets/patient-services.pdf" target="_blank">
                 PATIENT SERVICES Complete (pdf download)
             </a>
         </div>
