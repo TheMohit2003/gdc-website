@@ -2,7 +2,7 @@
 
 $ROOT = "../../../"; 
 include($ROOT . "includes/_init.php");
-$CURRENTDIRURL = $ROOTURL . "departments/public-health-dentistry/gallery/";
+$CURRENTDIRURL = $ROOTURL . "departments/community-dentistry/gallery/";
 
 ?>
 
@@ -27,7 +27,7 @@ $CURRENTDIRURL = $ROOTURL . "departments/public-health-dentistry/gallery/";
     <div class="pageBanner">
         <img src="<?php echo $ROOTURL ?>public/assets/pageBanner.jpg"/>
         <h1>
-            DEPARTMENT OF PUBLIC HEALTH DENTISTRY
+            DEPARTMENT OF COMMUNITY DENTISTRY
         </h1>
     </div>
     <div class="contentContainer">
