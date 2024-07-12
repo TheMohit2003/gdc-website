@@ -32,7 +32,6 @@ $CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             DEPARTMENT OF ORAL AND MAXILLOFACIAL SURGERY
         </h1>
     </div>
-    <?php echo $CURRENTDIRURL ?>
     <div class="contentContainer">
         <div>
             <h1>Introduction</h1>
