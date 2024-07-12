@@ -2,7 +2,7 @@
 
 $ROOT = "../../"; 
 include($ROOT . "includes/_init.php");
-$CUURENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
+$CURRENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
 
 ?>
 
@@ -189,49 +189,49 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             </div>
             <div class="facultyGallery">
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Kanchan-Shah/photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Kanchan-Shah/Kanchan-Shah.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Kanchan-Shah/photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Kanchan-Shah/Kanchan-Shah.pdf" type="application/pdf" target="_blank" >
                         Dr. Kanchan Shah
                     </a>
                     <p>Professor and Head of Department, Dept. of Oral and Maxillofacial Surgery</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Jayant-Landge/photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Jayant-Landge/Jayant-Landge.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Jayant-Landge/photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Jayant-Landge/Jayant-Landge.pdf" type="application/pdf" target="_blank" >
                         Dr. Jayant S. Landge
                     </a>
                     <p>Associate Professor and Post Graduate Teacher, Dept. of Oral and Maxillofacial Surgery</p>
                 </div>
                 <div class="facultyCard">
                     <img src="<?php echo $ROOTURL ?>public/assets/doctor.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Shaikh-Ayub/Shaikh-Ayub.pdf" type="application/pdf" target="_blank" >
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Shaikh-Ayub/Shaikh-Ayub.pdf" type="application/pdf" target="_blank" >
                         Dr. Shaikh Wahab Ayub
                     </a>
                     <p>Associate Professor, Dept. of Oral and Maxillofacial Surgery</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Shelly-Sharma/photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Shelly-Sharma/Shelly-Sharma.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Shelly-Sharma/photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Shelly-Sharma/Shelly-Sharma.pdf" type="application/pdf" target="_blank" >
                         Dr. Shelly Sharma
                     </a>
                     <p>Assistant Professor, Dept. of Oral and Maxillofacial Surgery</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Ashlesha-Ghormade/photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Ashlesha-Ghormade/Ashlesha-Ghormade.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Ashlesha-Ghormade/photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Ashlesha-Ghormade/Ashlesha-Ghormade.pdf" type="application/pdf" target="_blank" >
                         Dr. Ashlesha-Ghormade
                     </a>
                     <p>Assistant Professor, Dept. of Oral and Maxillofacial Surgery</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/Priti-Bhutada/photo.JPG" alt="faculty" width="200" height="200" />
-                    <a href= "<?php echo $CUURENTDIRURL ?>assets/Priti-Bhutada/Priti-Bhutada.pdf" type="application/pdf" target="_blank" >
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/Priti-Bhutada/photo.JPG" alt="faculty" width="200" height="200" />
+                    <a href= "<?php echo $CURRENTDIRURL ?>assets/Priti-Bhutada/Priti-Bhutada.pdf" type="application/pdf" target="_blank" >
                         Dr. Priti N. Bhutada
                     </a>
                     <p>Dental Surgeon, Dept. of Oral and Maxillofacial Surgery</p>
                 </div>
                 <div class="facultyCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>assets/harshmala-chavan/photo.JPG" alt="faculty" width="200" height="200" />
+                    <img src="<?php echo $CURRENTDIRURL ?>assets/harshmala-chavan/photo.JPG" alt="faculty" width="200" height="200" />
                     <a type="application/pdf" target="_blank" >
                         DR.HARSHMALA CHAVAN
                     </a>
@@ -246,32 +246,32 @@ $CUURENTDIRURL = $ROOTURL . "departments/oral-and-maxillofacial-surgery/";
             <h1>Gallery</h1>
             <div class="galleryCardContainer">
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/DEPARTMENT STAFF AND POST- GRADUATES PHOTOGRAPHS.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/DEPARTMENT STAFF AND POST- GRADUATES PHOTOGRAPHS.png" alt="Department Image" />
                     <p>
                         DEPARTMENT STAFF AND POST- GRADUATES PHOTOGRAPHS
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/OPD.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/OPD.png" alt="Department Image" />
                     <p>
                         OPD
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/MINOR OPERATION THEATRE.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/MINOR OPERATION THEATRE.png" alt="Department Image" />
                     <p>
                         MINOR OPERATION THEATRE
                     </p>
                 </div>
                 <div class="galleryCard">
-                    <img src="<?php echo $CUURENTDIRURL ?>gallery/assets/MAJOR OPERATION THEATRE.png" alt="Department Image" />
+                    <img src="<?php echo $CURRENTDIRURL ?>gallery/assets/MAJOR OPERATION THEATRE.png" alt="Department Image" />
                     <p>
                         MAJOR OPERATION THEATRE
                     </p>
                 </div>
             </div>
             <a class="readMoreBtn"
-                href="<?php echo $CUURENTDIRURL ?>gallery">
+                href="<?php echo $CURRENTDIRURL ?>gallery">
                 View More
             </a>
         </div>
